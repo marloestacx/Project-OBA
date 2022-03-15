@@ -33,7 +33,6 @@ getData();
 
 //show data
 function showData(data) {
-  // const results = data.results;
   console.log(data);
   data.forEach((item, i) => {
     const html = `
@@ -53,6 +52,7 @@ function showData(data) {
 }
 
 document.querySelector("form").addEventListener("submit", searchBar);
+document.getElementById("#sort").addEventListener("click", sortTitle);
 
 function search() {
   let input = document.getElementById("searchInput");
@@ -80,4 +80,22 @@ function search() {
 function searchBar(event) {
   event.preventDefault();
   search();
+}
+
+function sortTitle() {
+  const display = document.getElementById("items");
+  display.innerHTML = "";
+  // let newData = globalData.sort(function (a, b) {
+  //   console.log(a);
+  //   console.log(b);
+  //   return a.titles[0] - b.titles[0];
+  // });
+
+  let newData = globalData.sort((a, b) =>
+    a.titles[0] > b.titles[0] ? 1 : b.titles[0] > a.titles[0] ? -1 : 0
+  );
+
+  console.log(newData);
+
+  showData(newData);
 }
