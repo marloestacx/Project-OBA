@@ -2,13 +2,13 @@
 View art right from your phone
 
 ## Table of contents
-* [Concept](https://github.com/marloestacx/OBA#concept)
-* [Features](https://github.com/marloestacx/OBA#features)
-* [Installation](https://github.com/marloestacx/OBA#installation)
-* [Live Demo](https://github.com/marloestacx/OBA#live-demo)
-* [Checklist](https://github.com/marloestacx/OBA#checklist)
-* [Sources](https://github.com/marloestacx/OBA#sources)
-* [License](https://github.com/marloestacx/OBA#license)
+* [Concept](https://github.com/marloestacx/Project-OBA#concept)
+* [Features](https://github.com/marloestacx/Project-OBA#features)
+* [Installation](https://github.com/marloestacx/Project-OBA#installation)
+* [Live Demo](https://github.com/marloestacx/Project-OBA#live-demo)
+* [Checklist](https://github.com/marloestacx/Project-OBA#checklist)
+* [Sources](https://github.com/marloestacx/Project-OBA#sources)
+* [License](https://github.com/marloestacx/Project-OBA#license)
 
 ## Concept
 This project is a single page web app where you can view art that is displayed in the Rijksmuseum. 
@@ -35,7 +35,7 @@ Use Live Server to run the project
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 ## Live Demo
-The website can be viewd live on [https://marloestacx.github.io/rijksmuseum/spa/](https://marloestacx.github.io/web-app-from-scratch-2122/spa/)
+The website can be viewd live on [https://marloestacx.github.io/Project-OBA/](https://marloestacx.github.io/Project-OBA/)
 
 ## Checklist
 - [x] Show books
