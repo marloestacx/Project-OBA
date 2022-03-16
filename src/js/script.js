@@ -17,14 +17,32 @@ let globalData = [];
 function getData() {
   fetch(url, config)
     .then((response) => {
-      console.log(response);
       return response.json();
     })
     .then((data) => {
-      globalData = data.results;
+      // globalData = data.results;
+
+      // console.log(globalData);
+      // let newData = globalData.map((d) => [d.titles[0], d.year]);
+
+      console.log(data.results);
+
+      globalData = data.results.map((d) => {
+        return {
+          title: d.titles[0],
+          author: d.authors[0],
+          year: d.year,
+          images: [d.coverimages[0], d.coverimages[1]],
+        };
+      });
+
+      // globalData = newData;
+      console.log(globalData);
+
       showData(globalData);
     })
     .catch((err) => {
+      // fetch(".../data.json").then;
       console.log(err);
     });
 }
@@ -33,17 +51,16 @@ getData();
 
 //show data
 function showData(data) {
-  console.log(data);
   data.forEach((item, i) => {
     const html = `
             <article>
             <div class="content-overlay"></div>
               <img src="${
-                item.coverimages ? item.coverimages[1] : "Geen samenvatting"
+                item.images ? item.images[1] : "Geen samenvatting"
               }">  
               <div class="content-details">
-              <h3>${item.titles[0]}</h3>
-              <p>${item.authors}</p>
+              <h3>${item.title}</h3>
+              <p>${item.author}</p>
             </div>
             </article>
           `;
@@ -53,6 +70,8 @@ function showData(data) {
 
 document.querySelector("form").addEventListener("submit", searchBar);
 document.getElementById("#sort").addEventListener("click", sortTitle);
+document.getElementById("#sortAuthor").addEventListener("click", sortAuthor);
+document.getElementById("#sortYear").addEventListener("click", sortYear);
 
 function search() {
   let input = document.getElementById("searchInput");
@@ -62,8 +81,8 @@ function search() {
   //search on input
   let search = globalData.filter(function (d) {
     return (
-      d.titles[0].toLowerCase().includes(input.value.toLowerCase()) ||
-      d.authors[0].toLowerCase().includes(input.value.toLowerCase())
+      d.title.toLowerCase().includes(input.value.toLowerCase()) ||
+      d.author.toLowerCase().includes(input.value.toLowerCase())
     );
   });
 
@@ -71,8 +90,6 @@ function search() {
   // if (search.length == 0) {
   //   errorSearch();
   // }
-
-  console.log(search);
 
   showData(search);
 }
@@ -85,17 +102,32 @@ function searchBar(event) {
 function sortTitle() {
   const display = document.getElementById("items");
   display.innerHTML = "";
-  // let newData = globalData.sort(function (a, b) {
-  //   console.log(a);
-  //   console.log(b);
-  //   return a.titles[0] - b.titles[0];
-  // });
 
   let newData = globalData.sort((a, b) =>
-    a.titles[0] > b.titles[0] ? 1 : b.titles[0] > a.titles[0] ? -1 : 0
+    a.title > b.title ? 1 : b.title > a.title ? -1 : 0
   );
 
-  console.log(newData);
+  showData(newData);
+}
+
+function sortAuthor() {
+  const display = document.getElementById("items");
+  display.innerHTML = "";
+
+  let newData = globalData.sort((a, b) =>
+    a.author > b.author ? 1 : b.author > a.author ? -1 : 0
+  );
+
+  showData(newData);
+}
+
+function sortYear() {
+  const display = document.getElementById("items");
+  display.innerHTML = "";
+
+  let newData = globalData.sort((a, b) =>
+    a.year > b.year ? -1 : b.year > a.year ? 1 : 0
+  );
 
   showData(newData);
 }
