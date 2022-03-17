@@ -13,12 +13,12 @@
 ## Concept
 <!-- This project is a single page web app where you can view art that is displayed in the Rijksmuseum.  -->
 
-Entree
+<!-- Entree -->
 
 <!-- <img src="https://github.com/marloestacx/rijksmuseum/wiki/images/home.png" width="30%"> -->
 <!-- <img src="https://github.com/marloestacx/rijksmuseum/wiki/images/home.png" width="30%">  -->
 
-Search
+<!-- Search -->
 
 <!-- <img src="https://github.com/marloestacx/rijksmuseum/wiki/images/search.png" width="30%">  -->
 
