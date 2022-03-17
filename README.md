@@ -28,7 +28,7 @@
 ## Installation 
 Clone this repository
 
-`https://github.com/marloestacx/project-oba.git`
+`https://github.com/marloestacx/Project-OBA.git`
 
 Use Live Server to run the project
 
