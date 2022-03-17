@@ -29,8 +29,11 @@ export function getData() {
       globalData = data.results.map((d) => {
         return {
           title: d.titles[0],
-          // author: d.author[0] != null ? d.author[0] : "Geen auteur",
+          author: d.authors ? d.authors[0] : "Geen auteur",
           year: d.year,
+          language: d.languages[0],
+          description: d.description[0],
+          summarie: d.summaries ? d.summaries[0] : "Geen samenvatting",
           images: [d.coverimages[0], d.coverimages[1]],
         };
       });
@@ -49,13 +52,16 @@ export function getData() {
           globalData = data.map((d) => {
             return {
               title: d.titles[0],
-              //   author: d.authors[0] || "Test",
+              author: d.authors ? d.authors[0] : "Geen auteur",
               year: d.year,
+              language: d.languages[0],
+              description: d.description[0],
+              summarie: d.summaries ? d.summaries[0] : "Geen samenvatting",
               images: [d.coverimages[0], d.coverimages[1]],
             };
           });
 
-          // globalData = newData;
+          console.log(globalData);
 
           showData(globalData);
         });

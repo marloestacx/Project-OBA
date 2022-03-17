@@ -2,16 +2,18 @@ import { showData } from "./show.js";
 import { globalData } from "./fetch.js";
 import { errorSearch } from "./states.js";
 
-export function search() {
-  let input = document.getElementById("searchInput");
+let input = document.getElementById("searchInput");
+
+export function search(input) {
   const display = document.getElementById("items");
   display.innerHTML = "";
 
   //search on input
   let search = globalData.filter(function (d) {
-    return d.title.toLowerCase().includes(input.value.toLowerCase());
-    //   ||
-    //   d.author.toLowerCase().includes(input.value.toLowerCase())
+    return (
+      d.title.toLowerCase().includes(input.toLowerCase()) ||
+      d.author.toLowerCase().includes(input.toLowerCase())
+    );
   });
 
   //   if search is empty show error
@@ -25,5 +27,5 @@ export function search() {
 
 export function searchBar(event) {
   event.preventDefault();
-  search();
+  search(input.value);
 }
