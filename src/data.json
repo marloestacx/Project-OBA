@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "|oba-catalogus|1219562",
+    "frabl": {
+      "key1": "beter eten gezond genieten zonder dieet",
+      "key2": "kathrin burger",
+      "cnt": "1",
+      "value": "1D4EC0523FF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Kathrin-Burger/Beter-eten-gezond-genieten-zonder-dieet/Boek/?itemid=%7coba-catalogus%7c1219562",
+    "titles": [
+      "Beter eten : gezond genieten zonder dieet",
+      "Beter eten : gezond genieten zonder dieet / Kathrin Burger"
+    ],
+    "isbn": ["=9789059514362"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=422936715&isbn=9789059514362&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/422936715&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": [
+      "Kathrin Burger",
+      "Vreni van Unen",
+      "Lisa van Rens",
+      "Nelleke Polderman"
+    ],
+    "authorsDetailed": [
+      {
+        "full": "Kathrin Burger",
+        "firstname": "Kathrin",
+        "lastname": "Burger",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Vreni van Unen",
+        "lastname": "Vreni van Unen",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Lisa van Rens",
+        "lastname": "Lisa van Rens",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Nelleke Polderman",
+        "lastname": "Nelleke Polderman",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2019",
+    "publisher": ["Consumentenbond, Den Haag, mei 2019"],
+    "subject-topical": ["Voedingsleer"],
+    "languages": ["Nederlands", "Duits"],
+    "summaries": [
+      "Gezondere keuzes maken binnen je huidige voedingspatroon, zonder dieet."
+    ],
+    "description": ["204 pagina's", "204 pagina's: illustraties ; 18 cm"],
+    "note": "Met register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "beter eten gezond genieten zonder dieet",
+          "key2": "kathrin burger",
+          "cnt": "1",
+          "value": "1D4EC0523FF360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|486774",
+    "frabl": {
+      "key1": "de plant als genees genot en voedingsmiddel overzicht van in nederland bekende of gebruikte gewassen voor ieder die belang stelt in geneekunde botanie en voedingsleer",
+      "key2": "jawillinge prins",
+      "cnt": "1",
+      "value": "77E8F2A892F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/J-A-Willinge-Prins/De-plant-als-genees-genot-en-voedingsmiddel/Boek/?itemid=%7coba-catalogus%7c486774",
+    "titles": [
+      "De plant als genees-, genot- en voedingsmiddel : overzicht van in Nederland bekende of gebruikte gewassen, voor ieder die belang stelt in geneekunde, botanie en voedingsleer",
+      "De plant als genees-, genot- en voedingsmiddel : overzicht van in Nederland bekende of gebruikte gewassen, voor ieder die belang stelt in geneekunde, botanie en voedingsleer / door J. A. Willinge Prins en Hen Bavelaar"
+    ],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=059320028&isbn=&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/059320028&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["J.A.Willinge Prins", "Hen Bavelaar"],
+    "authorsDetailed": [
+      {
+        "full": "J.A.Willinge Prins",
+        "firstname": "J.A.Willinge",
+        "lastname": "Prins",
+        "creatortype": "person"
+      },
+      {
+        "full": "Hen Bavelaar",
+        "lastname": "Hen Bavelaar",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "1952",
+    "publisher": ["Argus, Amsterdam, [ca. 1952]"],
+    "subject-topical": ["Geneeskrachtige kruiden", "Nederland"],
+    "languages": ["Nederlands"],
+    "description": ["347 p", "347 p: ill ; 25 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "de plant als genees genot en voedingsmiddel overzicht van in nederland bekende of gebruikte gewassen voor ieder die belang stelt in geneekunde botanie en voedingsleer",
+          "key2": "jawillinge prins",
+          "cnt": "1",
+          "value": "77E8F2A892F360A0"
+        }
+      ]
+    },
+    "siso": ["612.8"]
+  },
+  {
+    "id": "|oba-catalogus|1034519",
+    "frabl": {
+      "key1": "de voedselzandloper over afvallen en langer jong blijven",
+      "key2": "kris verburgh",
+      "cnt": "3",
+      "value": "44BA75E69F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Kris-Verburgh/De-voedselzandloper-over-afvallen-en-langer/Boek/?itemid=%7coba-catalogus%7c1034519",
+    "titles": [
+      "De voedselzandloper : over afvallen en langer jong blijven",
+      "De voedselzandloper : over afvallen en langer jong blijven / Kris Verburgh"
+    ],
+    "isbn": ["9789035137585"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=338694838&isbn=9789035137585&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/338694838&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Kris Verburgh"],
+    "authorsDetailed": [
+      {
+        "full": "Kris Verburgh",
+        "firstname": "Kris",
+        "lastname": "Verburgh",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2012",
+    "publisher": ["Bakker, Amsterdam, 2012"],
+    "subject-topical": ["Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["366 p", "366 p: ill ; 22 cm"],
+    "note": "Met lit. opg., reg",
+    "undup": {
+      "alsoAvailableAsCount": "3",
+      "items": [
+        {
+          "key1": "de voedselzandloper over afvallen en langer jong blijven",
+          "key2": "kris verburgh",
+          "cnt": "3",
+          "value": "44BA75E69F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1135982",
+    "frabl": {
+      "key1": "eet gewoon gezond je hoeft niet ziek te zijn om beter te worden",
+      "key2": "anneke van den broek",
+      "cnt": "1",
+      "value": "7B14114305F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Anneke-van-den-Broek/Eet-gewoon-gezond!-je-hoeft-niet-ziek-te/Boek/?itemid=%7coba-catalogus%7c1135982",
+    "titles": [
+      "Eet gewoon gezond! : je hoeft niet ziek te zijn om beter te worden",
+      "Eet gewoon gezond! : je hoeft niet ziek te zijn om beter te worden / Anneke van den Broek & Martijn van Raamsdonk"
+    ],
+    "isbn": ["=9789490728038"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391745913&isbn=9789490728038&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391745913&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Anneke van den Broek", "Martijn van Raamsdonk"],
+    "authorsDetailed": [
+      {
+        "full": "Anneke van den Broek",
+        "firstname": "Anneke",
+        "lastname": "Broek",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Martijn van Raamsdonk",
+        "lastname": "Martijn van Raamsdonk",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2015",
+    "publisher": [
+      "[uitgever niet vastgesteld], [Plaats van uitgave niet vastgesteld], maart 2015"
+    ],
+    "subject-topical": ["Voedingsleer", "Vermageringsrecepten"],
+    "languages": ["Nederlands"],
+    "summaries": [
+      "De grote gezondheidsproblemen van nu worden besproken en de auteurs tonen aan hoe je via voeding de gezondste versie van jezelf kunt vinden. Geen dieetboek, of kookboek, maar wel recepten."
+    ],
+    "description": ["144 pagina's", "144 pagina's: illustraties ; 24 cm"],
+    "note": "Met register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "eet gewoon gezond je hoeft niet ziek te zijn om beter te worden",
+          "key2": "anneke van den broek",
+          "cnt": "1",
+          "value": "7B14114305F360A0"
+        }
+      ]
+    },
+    "siso": ["629.55"]
+  },
+  {
+    "id": "|oba-catalogus|1133326",
+    "frabl": {
+      "key1": "eet jezelf mooi slank gelukkig",
+      "key2": "amber albarda",
+      "cnt": "2",
+      "value": "DCEF4E128F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Amber-Albarda/Eet-jezelf-mooi-slank-gelukkig/Boek/?itemid=%7coba-catalogus%7c1133326",
+    "titles": [
+      "Eet jezelf mooi, slank & gelukkig",
+      "Eet jezelf mooi, slank & gelukkig / Amber Albarda"
+    ],
+    "isbn": ["=9789000339921", "=9789000339921"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=390796352&isbn=9789000339921&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/390796352&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Amber Albarda"],
+    "authorsDetailed": [
+      {
+        "full": "Amber Albarda",
+        "firstname": "Amber",
+        "lastname": "Albarda",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Spectrum, Houten, 2015"],
+    "subject-topical": ["Voedingsleer"],
+    "languages": ["Nederlands"],
+    "summaries": [
+      "Over verandering van eetgewoontes en volgen van een gezond voedingspatroon."
+    ],
+    "description": ["255 pagina's", "255 pagina's: illustraties ; 25 cm"],
+    "note": "Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "2",
+      "items": [
+        {
+          "key1": "eet jezelf mooi slank gelukkig",
+          "key2": "amber albarda",
+          "cnt": "2",
+          "value": "DCEF4E128F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1207994",
+    "frabl": {
+      "key1": "eet meer energie voor een vitaal en vrolijk leven",
+      "key2": "marjolein dubbers",
+      "cnt": "1",
+      "value": "309E628BA8F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Eet-meer-energie-voor-een-vitaal-en-vrolijk/Boek/?itemid=%7coba-catalogus%7c1207994",
+    "titles": [
+      "Eet meer energie : voor een vitaal en vrolijk leven",
+      "Eet meer energie : voor een vitaal en vrolijk leven / Marjolein Dubbers"
+    ],
+    "isbn": ["=9789021566863", "=9789021566870"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=418651108&isbn=9789021566863&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/418651108&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Marjolein Dubbers", "Hester Bruning"],
+    "authorsDetailed": [
+      {
+        "full": "Marjolein Dubbers",
+        "firstname": "Marjolein",
+        "lastname": "Dubbers",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Hester Bruning",
+        "lastname": "Hester Bruning",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2018",
+    "publisher": ["Kosmos Uitgevers, Utrecht, [2018]"],
+    "subject-topical": ["Voeding", "Gezondheid", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["287 pagina's", "287 pagina's: illustraties ; 24 cm"],
+    "note": "Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "eet meer energie voor een vitaal en vrolijk leven",
+          "key2": "marjolein dubbers",
+          "cnt": "1",
+          "value": "309E628BA8F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|212078",
+    "frabl": {
+      "key1": "handleiding voor de grasparkietkweker geschiedenis praktische kweek voedingsleer vederstructuur erfelijkheid van kleur en fysieke eigenschappen schematisch uitgewerkte voorstellingen van de gameetvorming",
+      "key2": "wbeckmann",
+      "cnt": "1",
+      "value": "9DF6AA546F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/W-Beckmann/Handleiding-voor-de-grasparkietkweker/Boek/?itemid=%7coba-catalogus%7c212078",
+    "titles": [
+      "Handleiding voor de grasparkietkweker : geschiedenis, praktische kweek, voedingsleer, vederstructuur, erfelijkheid van kleur- en fysieke eigenschappen, schematisch uitgewerkte voorstellingen van de gameetvorming",
+      "Handleiding voor de grasparkietkweker : geschiedenis, praktische kweek, voedingsleer, vederstructuur, erfelijkheid van kleur- en fysieke eigenschappen, schematisch uitgewerkte voorstellingen van de gameetvorming / door W. Beckmann ; [foto's: A.G. de Bruijn]"
+    ],
+    "isbn": ["9003921024 (geb.)"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=052086526&isbn=9789003921024&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/052086526&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["W. Beckmann"],
+    "authorsDetailed": [
+      {
+        "full": "W. Beckmann",
+        "firstname": "W.",
+        "lastname": "Beckmann",
+        "creatortype": "person"
+      }
+    ],
+    "year": "1989",
+    "publisher": ["Thieme, Zutphen, cop. 1989"],
+    "subject-topical": ["Grasparkieten"],
+    "languages": ["Nederlands"],
+    "description": ["256 p", "256 p: foto's ; 25 cm"],
+    "note": "Met lit. opg",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "handleiding voor de grasparkietkweker geschiedenis praktische kweek voedingsleer vederstructuur erfelijkheid van kleur en fysieke eigenschappen schematisch uitgewerkte voorstellingen van de gameetvorming",
+          "key2": "wbeckmann",
+          "cnt": "1",
+          "value": "9DF6AA546F360A0"
+        }
+      ]
+    },
+    "siso": ["634.62"]
+  },
+  {
+    "id": "|oba-catalogus|1140307",
+    "frabl": {
+      "key1": "heel de huid chinese voedingsleer",
+      "key2": "ronald riksen",
+      "cnt": "1",
+      "value": "5F855AA1DF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Ronald-Riksen/Heel-de-huid-Chinese-voedingsleer/Boek/?itemid=%7coba-catalogus%7c1140307",
+    "titles": [
+      "Heel de huid : Chinese voedingsleer",
+      "Heel de huid : Chinese voedingsleer / Ronald Riksen"
+    ],
+    "isbn": ["=9789073930407"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=395956579&isbn=9789073930407&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/395956579&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Ronald Riksen"],
+    "authorsDetailed": [
+      {
+        "full": "Ronald Riksen",
+        "firstname": "Ronald",
+        "lastname": "Riksen",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Seapress, Rijswijk, [2015]"],
+    "subject-topical": ["Voedingsleer", "China"],
+    "languages": ["Nederlands"],
+    "summaries": [
+      "Een holistische benadering en praktische uitwerking van gezonde voeding o.b.v. het traditionele Chinese 'energie-denken', als tegenstelling tot het westerse 'in voedingsstofjes' denken."
+    ],
+    "description": ["319 pagina's", "319 pagina's ; 22 cm"],
+    "note": "Met index",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "heel de huid chinese voedingsleer",
+          "key2": "ronald riksen",
+          "cnt": "1",
+          "value": "5F855AA1DF360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1202124",
+    "frabl": {
+      "key1": "het pioppi dieet een lifestyleplan in 21 dagen",
+      "key2": "aseem malhotra",
+      "cnt": "1",
+      "value": "E29FFA4A7F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Aseem-Malhotra/Het-Pioppi-dieet-een-lifestyleplan-in-21-dagen/Boek/?itemid=%7coba-catalogus%7c1202124",
+    "titles": [
+      "Het Pioppi-dieet : een lifestyleplan in 21 dagen",
+      "Het Pioppi-dieet : een lifestyleplan in 21 dagen / Dr. Aseem Malhotra & Donal O'Neill"
+    ],
+    "isbn": ["=9789045216126"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=418851786&isbn=9789045216126&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/418851786&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Aseem Malhotra", "Donal O'Neill", "Mariëlle Steinpatz"],
+    "authorsDetailed": [
+      {
+        "full": "Aseem Malhotra",
+        "firstname": "Aseem",
+        "lastname": "Malhotra",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Donal O'Neill",
+        "lastname": "Donal O'Neill",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Mariëlle Steinpatz",
+        "lastname": "Mariëlle Steinpatz",
+        "localized-type": "Vertaler",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2018",
+    "publisher": ["Karakter Uitgevers B.V., Uithoorn, [2018]"],
+    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer", "Kookboeken"],
+    "languages": ["Nederlands", "Engels"],
+    "description": [
+      "349 pagina's, 24 ongenummerde pagina's platen",
+      "349 pagina's, 24 ongenummerde pagina's platen: illustraties ; 22 cm"
+    ],
+    "note": "Vertaling van: The Pioppi diet. - Londen : Penguin Books, 2017",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het pioppi dieet een lifestyleplan in 21 dagen",
+          "key2": "aseem malhotra",
+          "cnt": "1",
+          "value": "E29FFA4A7F360A0"
+        }
+      ]
+    },
+    "siso": ["615"]
+  },
+  {
+    "id": "|oba-catalogus|1162443",
+    "frabl": {
+      "key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
+      "key2": "marjolein dubbers",
+      "cnt": "1",
+      "value": "5B55C936B0F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Het-energieke-vrouwen-voedingskompas/Boek/?itemid=%7coba-catalogus%7c1162443",
+    "titles": [
+      "Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven",
+      "Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven / Marjolein Dubbers"
+    ],
+    "isbn": ["=9789021563732", "=9789021563749"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=405033354&isbn=9789021563732&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/405033354&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Marjolein Dubbers", "Hester Bruning"],
+    "authorsDetailed": [
+      {
+        "full": "Marjolein Dubbers",
+        "firstname": "Marjolein",
+        "lastname": "Dubbers",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Hester Bruning",
+        "lastname": "Hester Bruning",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2016",
+    "publisher": ["Kosmos Uitgevers, Utrecht, [2016]"],
+    "subject-topical": ["Vrouwen", "Gezondheid", "Hormonen", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["287 pagina's", "287 pagina's: illustraties ; 24 cm"],
+    "note": "Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
+          "key2": "marjolein dubbers",
+          "cnt": "1",
+          "value": "5B55C936B0F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|337965",
+    "frabl": {
+      "key1": "het vijf elementen kookboek de traditionele chinese voedingsleer voor de westerse keuken met 150 recepten voor versterking van lichaam en geest",
+      "key2": "barbara temelie",
+      "cnt": "1",
+      "value": "5DE539CC97F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Barbara-Temelie/Het-vijf-elementen-kookboek-de-traditionele/Boek/?itemid=%7coba-catalogus%7c337965",
+    "titles": [
+      "Het vijf elementen kookboek : de traditionele Chinese voedingsleer voor de westerse keuken : met 150 recepten voor versterking van lichaam en geest",
+      "Het vijf elementen kookboek : de traditionele Chinese voedingsleer voor de westerse keuken : met 150 recepten voor versterking van lichaam en geest / Barbara Temelie & Beatrice Trebuth"
+    ],
+    "isbn": ["9063783167"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=134801121&isbn=9789063783167&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/134801121&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Barbara Temelie", "Beatrice Trebuth", "Piet Hein Geurink"],
+    "authorsDetailed": [
+      {
+        "full": "Barbara Temelie",
+        "firstname": "Barbara",
+        "lastname": "Temelie",
+        "creatortype": "person"
+      },
+      {
+        "full": "Beatrice Trebuth",
+        "lastname": "Beatrice Trebuth",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Piet Hein Geurink",
+        "lastname": "Piet Hein Geurink",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "1995",
+    "publisher": ["Schors, Amsterdam, cop. 1995"],
+    "subject-topical": ["Chinese recepten", "Voedingsleer", "China"],
+    "languages": ["Nederlands", "Duits"],
+    "description": ["VI, 185 p", "VI, 185 p: ill ; 22 cm"],
+    "note": "Vert. van: Das fünf Elemente Kochbuch. - Sulzberg : Joy, 1993",
+    "collection": "Smibanese",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het vijf elementen kookboek de traditionele chinese voedingsleer voor de westerse keuken met 150 recepten voor versterking van lichaam en geest",
+          "key2": "barbara temelie",
+          "cnt": "1",
+          "value": "5DE539CC97F360A0"
+        }
+      ]
+    },
+    "siso": ["China 629.63"]
+  },
+  {
+    "id": "|oba-catalogus|1162583",
+    "frabl": {
+      "key1": "hoe word je 100 het actieboek overtollig gewicht verliezen gezond blijven en zelf ziekten genezen op wetenschap gebaseerd met spectaculaire feiten",
+      "key2": "william cortvriendt",
+      "cnt": "1",
+      "value": "5D0BBD9C62F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/William-Cortvriendt/Hoe-word-je-100/Boek/?itemid=%7coba-catalogus%7c1162583",
+    "titles": [
+      "Hoe word je 100?",
+      "Hoe word je 100? Het actieboek : overtollig gewicht verliezen, gezond blijven en zelf ziekten genezen, op wetenschap gebaseerd met spectaculaire feiten / William Cortvriendt"
+    ],
+    "isbn": ["=9789492495037"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=407405186&isbn=9789492495037&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/407405186&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["William Cortvriendt"],
+    "authorsDetailed": [
+      {
+        "full": "William Cortvriendt",
+        "firstname": "William",
+        "lastname": "Cortvriendt",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2016",
+    "publisher": ["Water, [Nederhorst den Berg], november 2016"],
+    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["239 pagina's", "239 pagina's ; 25 cm"],
+    "note": "Met literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "hoe word je 100 het actieboek overtollig gewicht verliezen gezond blijven en zelf ziekten genezen op wetenschap gebaseerd met spectaculaire feiten",
+          "key2": "william cortvriendt",
+          "cnt": "1",
+          "value": "5D0BBD9C62F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1127498",
+    "frabl": {
+      "key1": "hoe word je 100 de feiten over hoe we gezond en jong blijven",
+      "key2": "william cortvriendt",
+      "cnt": "1",
+      "value": "33970250C4F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/William-Cortvriendt/Hoe-word-je-100-de-feiten-over-hoe-we/Boek/?itemid=%7coba-catalogus%7c1127498",
+    "titles": [
+      "Hoe word je 100? : de feiten over hoe we gezond en jong blijven",
+      "Hoe word je 100? : de feiten over hoe we gezond en jong blijven / William Cortvriendt"
+    ],
+    "isbn": ["=9789491729201"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=377523992&isbn=9789491729201&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/377523992&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["William Cortvriendt"],
+    "authorsDetailed": [
+      {
+        "full": "William Cortvriendt",
+        "firstname": "William",
+        "lastname": "Cortvriendt",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Uitgeverij Lucht BV, Nederhorst den Berg, januari 2015"],
+    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "summaries": [
+      "In alledaagse taal zet een arts het belang van een gezonde leefstijl en de kracht van voeding uiteen."
+    ],
+    "description": ["320 pagina's", "320 pagina's: illustraties ; 23 cm"],
+    "note": "Met index, literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "hoe word je 100 de feiten over hoe we gezond en jong blijven",
+          "key2": "william cortvriendt",
+          "cnt": "1",
+          "value": "33970250C4F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1143755",
+    "frabl": {
+      "key1": "maak je niet dik van onzinnige dieten tot het ongezondste overheidsadvies ooit maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen",
+      "key2": "william cortvriendt",
+      "cnt": "1",
+      "value": "5BABD4B320F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/William-Cortvriendt/Maak-je-niet-dik-van-onzinnige-dieten-tot/Boek/?itemid=%7coba-catalogus%7c1143755",
+    "titles": [
+      "Maak je niet dik : van onzinnige diëten tot het ongezondste overheidsadvies ooit : maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen",
+      "Maak je niet dik : van onzinnige diëten tot het ongezondste overheidsadvies ooit : maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen / William Cortvriendt"
+    ],
+    "isbn": ["=9789491729379"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=394220498&isbn=9789491729379&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/394220498&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["William Cortvriendt"],
+    "authorsDetailed": [
+      {
+        "full": "William Cortvriendt",
+        "firstname": "William",
+        "lastname": "Cortvriendt",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Uitgeverij Lucht BV, Nederhorst den Berg, november 2015"],
+    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["280 pagina's", "280 pagina's ; 23 cm"],
+    "note": "Met literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "maak je niet dik van onzinnige dieten tot het ongezondste overheidsadvies ooit maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen",
+          "key2": "william cortvriendt",
+          "cnt": "1",
+          "value": "5BABD4B320F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1187332",
+    "frabl": {
+      "key1": "personal body plan the fat burning guide",
+      "key2": "tom barten",
+      "cnt": "1",
+      "value": "66083F507EF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Tom-Barten/Personal-Body-Plan-the-fat-burning-guide/Boek/?itemid=%7coba-catalogus%7c1187332",
+    "titles": [
+      "Personal Body Plan : the fat burning guide",
+      "Personal Body Plan : the fat burning guide / Tom Barten"
+    ],
+    "isbn": ["=9789000353354"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=404992986&isbn=9789000353354&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/404992986&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Tom Barten"],
+    "authorsDetailed": [
+      {
+        "full": "Tom Barten",
+        "firstname": "Tom",
+        "lastname": "Barten",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2018",
+    "publisher": ["Spectrum, Houten, 2018"],
+    "subject-topical": ["Conditietraining", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["186 pagina's", "186 pagina's: illustraties ; 25 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "personal body plan the fat burning guide",
+          "key2": "tom barten",
+          "cnt": "1",
+          "value": "66083F507EF360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1141159",
+    "frabl": {
+      "key1": "veroudering vertragen het langer jong plan",
+      "key2": "kris verburgh",
+      "cnt": "1",
+      "value": "5C2D37B5F9F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Kris-Verburgh/Veroudering-vertragen-het-langer-jong-plan/Boek/?itemid=%7coba-catalogus%7c1141159",
+    "titles": [
+      "Veroudering vertragen : het langer jong-plan",
+      "Veroudering vertragen : het langer jong-plan / Kris Verburgh"
+    ],
+    "isbn": ["=9789035143982", "=9789035143470"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=394167376&isbn=9789035143982&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/394167376&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Kris Verburgh"],
+    "authorsDetailed": [
+      {
+        "full": "Kris Verburgh",
+        "firstname": "Kris",
+        "lastname": "Verburgh",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Prometheus Bert Bakker, Amsterdam, 2015"],
+    "subject-topical": ["Gerontologie", "Verouderen", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["326 pagina's", "326 pagina's: illustraties ; 23 cm"],
+    "note": "Met literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "veroudering vertragen het langer jong plan",
+          "key2": "kris verburgh",
+          "cnt": "1",
+          "value": "5C2D37B5F9F360A0"
+        }
+      ]
+    },
+    "siso": ["324"]
+  },
+  {
+    "id": "|oba-catalogus|1216617",
+    "frabl": {
+      "key1": "vet belangrijk feiten en fabels over voeding vetverbranding en verborgen dikmakers",
+      "key2": "mariette boon",
+      "cnt": "1",
+      "value": "3FD3D00308F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Mariette-Boon/Vet-belangrijk-feiten-en-fabels-over-voeding/Boek/?itemid=%7coba-catalogus%7c1216617",
+    "titles": [
+      "Vet belangrijk : feiten en fabels over voeding, vetverbranding en verborgen dikmakers",
+      "Vet belangrijk : feiten en fabels over voeding, vetverbranding en verborgen dikmakers / Mariëtte Boon & Liesbeth van Rossum"
+    ],
+    "isbn": ["=9789026346521"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420774718&isbn=9789026346521&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420774718&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Mariëtte Boon", "Liesbeth van Rossum"],
+    "authorsDetailed": [
+      {
+        "full": "Mariëtte Boon",
+        "firstname": "Mariëtte",
+        "lastname": "Boon",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Liesbeth van Rossum",
+        "lastname": "Liesbeth van Rossum",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2019",
+    "publisher": ["Ambo|Anthos, Amsterdam, [2019]"],
+    "subject-topical": ["Vet", "Voedingsleer"],
+    "languages": ["Nederlands"],
+    "description": ["247 pagina's", "247 pagina's: illustraties ; 22 cm"],
+    "note": "Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "vet belangrijk feiten en fabels over voeding vetverbranding en verborgen dikmakers",
+          "key2": "mariette boon",
+          "cnt": "1",
+          "value": "3FD3D00308F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1239699",
+    "frabl": {
+      "key1": "voeding immuunsysteem ontdek de energie om een leven te creeren waar je verliefd op wordt",
+      "key2": "marjolein dubbers",
+      "cnt": "1",
+      "value": "605B187CC8F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Voeding-immuunsysteem-ontdek-de-energie-om/Boek/?itemid=%7coba-catalogus%7c1239699",
+    "titles": [
+      "Voeding & immuunsysteem : ontdek de energie om een leven te creëren waar je verliefd op wordt",
+      "Voeding & immuunsysteem : ontdek de energie om een leven te creëren waar je verliefd op wordt / Marjolein Dubbers"
+    ],
+    "isbn": ["=9789021578224"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=427783054&isbn=9789021578224&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/427783054&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Marjolein Dubbers"],
+    "authorsDetailed": [
+      {
+        "full": "Marjolein Dubbers",
+        "firstname": "Marjolein",
+        "lastname": "Dubbers",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2021",
+    "publisher": ["Kosmos, Utrecht, [2021]"],
+    "subject-topical": [
+      "Vrouwen",
+      "Gezondheid",
+      "Immuunsysteem",
+      "Voedingsleer"
+    ],
+    "languages": ["Nederlands"],
+    "description": ["159 pagina's", "159 pagina's: illustraties ; 22 cm"],
+    "note": "Met literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "voeding immuunsysteem ontdek de energie om een leven te creeren waar je verliefd op wordt",
+          "key2": "marjolein dubbers",
+          "cnt": "1",
+          "value": "605B187CC8F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|338186",
+    "frabl": {
+      "key1": "voeding volgens de vijf elementen inleiding in de traditionele chinese voedingsleer",
+      "key2": "barbara temelie",
+      "cnt": "1",
+      "value": "743F476473F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Barbara-Temelie/Voeding-volgens-de-vijf-elementen-inleiding/Boek/?itemid=%7coba-catalogus%7c338186",
+    "titles": [
+      "Voeding volgens de vijf elementen : inleiding in de traditionele Chinese voedingsleer",
+      "Voeding volgens de vijf elementen : inleiding in de traditionele Chinese voedingsleer / Barbara Temelie"
+    ],
+    "isbn": ["9789063783051"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=123747090&isbn=9789063783051&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/123747090&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Barbara Temelie", "Hajo Geurink"],
+    "authorsDetailed": [
+      {
+        "full": "Barbara Temelie",
+        "firstname": "Barbara",
+        "lastname": "Temelie",
+        "creatortype": "person"
+      },
+      {
+        "full": "Hajo Geurink",
+        "lastname": "Hajo Geurink",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "1994",
+    "publisher": ["Schors, Amsterdam, cop. 1994"],
+    "subject-topical": ["Voedingsleer", "China"],
+    "languages": ["Nederlands", "Duits"],
+    "description": [
+      "VII, 114 p., [1] vouwbl",
+      "VII, 114 p., [1] vouwbl: ill ; 22 cm"
+    ],
+    "note": "Vert. van: ErnÑhrung nach den FÓnf Elementen. - Sulzberg : Joy, cop. 1993",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "voeding volgens de vijf elementen inleiding in de traditionele chinese voedingsleer",
+          "key2": "barbara temelie",
+          "cnt": "1",
+          "value": "743F476473F360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  },
+  {
+    "id": "|oba-catalogus|1151802",
+    "frabl": {
+      "key1": "voedingsmythes over valse hoop en nodeloze vrees",
+      "key2": "martijn katan",
+      "cnt": "1",
+      "value": "2661951A1AF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Martijn-Katan/Voedingsmythes-over-valse-hoop-en-nodeloze/Boek/?itemid=%7coba-catalogus%7c1151802",
+    "titles": [
+      "Voedingsmythes : over valse hoop en nodeloze vrees",
+      "Voedingsmythes : over valse hoop en nodeloze vrees / Martijn Katan"
+    ],
+    "isbn": ["=9789035141117"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391594621&isbn=9789035141117&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391594621&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+      }
+    ],
+    "authors": ["Martijn Katan"],
+    "authorsDetailed": [
+      {
+        "full": "Martijn Katan",
+        "firstname": "Martijn",
+        "lastname": "Katan",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2016",
+    "publisher": ["Uitgeverij Bert Bakker, Amsterdam, 2016"],
+    "subject-topical": ["Voedingsleer"],
+    "languages": ["Nederlands"],
+    "summaries": [
+      "Kritische beschouwingen over gezondheidsmythes op het gebied van eten en drinken."
+    ],
+    "description": ["318 pagina's", "318 pagina's: illustraties ; 20 cm"],
+    "note": "Met literatuuropgave, register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "voedingsmythes over valse hoop en nodeloze vrees",
+          "key2": "martijn katan",
+          "cnt": "1",
+          "value": "2661951A1AF360A0"
+        }
+      ]
+    },
+    "siso": ["628.4"]
+  }
+]
