@@ -8,6 +8,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  padding: 1em;
 }
 
 h1 {
@@ -28,6 +29,14 @@ h1 span:nth-child(3) {
   margin-left: -0.8em;
   margin-bottom: 0;
   padding: 0;
+}
+
+h2 {
+  margin-top: -1em;
+}
+
+header div p {
+  margin-bottom: 0;
 }
 
 section {
@@ -88,10 +97,10 @@ article {
   max-width: 400px;
   margin: auto;
   overflow: hidden;
-  background-image: url("../images/pot2.png");
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: 22em; /* Resize the background image to cover the entire container */
+  background-image: url("../images/pot.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 22em;
 }
 
 article .content-overlay {
@@ -120,9 +129,7 @@ img {
 .content-details {
   position: absolute;
   text-align: center;
-  padding-left: 1em;
-  padding-right: 1em;
-  width: 100%;
+  width: 80%;
   top: 50%;
   left: 50%;
   opacity: 0;
