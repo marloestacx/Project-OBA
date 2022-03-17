@@ -7,12 +7,13 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 h1 {
   font-size: 60pt;
   margin: 0;
-  color: red;
+  color: #ff0000;
 }
 
 h1 span:nth-child(2) {
@@ -81,12 +82,16 @@ button:visited {
 }
 
 article {
-  padding: 0.5em;
+  padding: 1em;
   position: relative;
   /* width: 90%; */
   max-width: 400px;
   margin: auto;
   overflow: hidden;
+  background-image: url("../images/pot2.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: 22em; /* Resize the background image to cover the entire container */
 }
 
 article .content-overlay {
@@ -104,6 +109,12 @@ article .content-overlay {
 
 article:hover .content-overlay {
   opacity: 1;
+}
+
+img {
+  padding: 5em;
+  padding-top: 7em;
+  align-self: center;
 }
 
 .content-details {
