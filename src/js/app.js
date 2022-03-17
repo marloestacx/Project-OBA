@@ -3,7 +3,9 @@ import { searchBar } from "./modules/search.js";
 import { sortTitle } from "./modules/sort.js";
 import { sortAuthor } from "./modules/sort.js";
 import { sortYear } from "./modules/sort.js";
+import { loading } from "./modules/states.js";
 
+loading();
 getData();
 
 document.querySelector("form").addEventListener("submit", searchBar);

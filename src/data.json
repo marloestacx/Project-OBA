@@ -1,1165 +1,1209 @@
 [
   {
-    "id": "|oba-catalogus|1219562",
+    "id": "|oba-catalogus|1116400",
     "frabl": {
-      "key1": "beter eten gezond genieten zonder dieet",
-      "key2": "kathrin burger",
-      "cnt": "1",
-      "value": "1D4EC0523FF360A0"
+      "key1": "alles over sport en voeding inclusief dagmenu s en recepten",
+      "key2": "voedingscentrum",
+      "cnt": "2",
+      "value": "54EDFBA140F360A0"
     },
-    "detailLink": "http://zoeken.oba.nl/detail/Kathrin-Burger/Beter-eten-gezond-genieten-zonder-dieet/Boek/?itemid=%7coba-catalogus%7c1219562",
+    "detailLink": "http://zoeken.oba.nl/detail/Voedingscentrum/Alles-over-sport-en-voeding-inclusief/Boek/?itemid=%7coba-catalogus%7c1116400",
     "titles": [
-      "Beter eten : gezond genieten zonder dieet",
-      "Beter eten : gezond genieten zonder dieet / Kathrin Burger"
+      "Alles over sport en voeding : inclusief dagmenu's en recepten",
+      "Alles over sport en voeding : inclusief dagmenu's en recepten / Voedingscentrum"
     ],
-    "isbn": ["=9789059514362"],
+    "isbn": ["=9789051770520"],
     "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=422936715&isbn=9789059514362&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/422936715&token=c1322402"
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=375903348&isbn=9789051770520&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/375903348&token=c1322402"
     ],
     "formats": [
       {
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
       }
     ],
-    "authors": [
-      "Kathrin Burger",
-      "Vreni van Unen",
-      "Lisa van Rens",
-      "Nelleke Polderman"
-    ],
+    "authors": ["Voedingscentrum"],
     "authorsDetailed": [
       {
-        "full": "Kathrin Burger",
-        "firstname": "Kathrin",
-        "lastname": "Burger",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      },
-      {
-        "full": "Vreni van Unen",
-        "lastname": "Vreni van Unen",
-        "localized-type": "Vertaler",
-        "creatortype": "organization"
-      },
-      {
-        "full": "Lisa van Rens",
-        "lastname": "Lisa van Rens",
-        "localized-type": "Redacteur",
-        "creatortype": "organization"
-      },
-      {
-        "full": "Nelleke Polderman",
-        "lastname": "Nelleke Polderman",
-        "localized-type": "Medewerker",
-        "creatortype": "organization"
+        "full": "Voedingscentrum",
+        "lastname": "Voedingscentrum",
+        "creatortype": "unknown"
       }
     ],
-    "year": "2019",
-    "publisher": ["Consumentenbond, Den Haag, mei 2019"],
-    "subject-topical": ["Voedingsleer"],
-    "languages": ["Nederlands", "Duits"],
-    "summaries": [
-      "Gezondere keuzes maken binnen je huidige voedingspatroon, zonder dieet."
-    ],
-    "description": ["204 pagina's", "204 pagina's: illustraties ; 18 cm"],
-    "note": "Met register",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "beter eten gezond genieten zonder dieet",
-          "key2": "kathrin burger",
-          "cnt": "1",
-          "value": "1D4EC0523FF360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|486774",
-    "frabl": {
-      "key1": "de plant als genees genot en voedingsmiddel overzicht van in nederland bekende of gebruikte gewassen voor ieder die belang stelt in geneekunde botanie en voedingsleer",
-      "key2": "jawillinge prins",
-      "cnt": "1",
-      "value": "77E8F2A892F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/J-A-Willinge-Prins/De-plant-als-genees-genot-en-voedingsmiddel/Boek/?itemid=%7coba-catalogus%7c486774",
-    "titles": [
-      "De plant als genees-, genot- en voedingsmiddel : overzicht van in Nederland bekende of gebruikte gewassen, voor ieder die belang stelt in geneekunde, botanie en voedingsleer",
-      "De plant als genees-, genot- en voedingsmiddel : overzicht van in Nederland bekende of gebruikte gewassen, voor ieder die belang stelt in geneekunde, botanie en voedingsleer / door J. A. Willinge Prins en Hen Bavelaar"
-    ],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=059320028&isbn=&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/059320028&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["J.A.Willinge Prins", "Hen Bavelaar"],
-    "authorsDetailed": [
-      {
-        "full": "J.A.Willinge Prins",
-        "firstname": "J.A.Willinge",
-        "lastname": "Prins",
-        "creatortype": "person"
-      },
-      {
-        "full": "Hen Bavelaar",
-        "lastname": "Hen Bavelaar",
-        "creatortype": "organization"
-      }
-    ],
-    "year": "1952",
-    "publisher": ["Argus, Amsterdam, [ca. 1952]"],
-    "subject-topical": ["Geneeskrachtige kruiden", "Nederland"],
+    "year": "2014",
+    "publisher": ["Stichting Voedingscentrum Nederland, Den Haag, [2014]"],
+    "subject-topical": ["Voeding", "Sport"],
     "languages": ["Nederlands"],
-    "description": ["347 p", "347 p: ill ; 25 cm"],
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "de plant als genees genot en voedingsmiddel overzicht van in nederland bekende of gebruikte gewassen voor ieder die belang stelt in geneekunde botanie en voedingsleer",
-          "key2": "jawillinge prins",
-          "cnt": "1",
-          "value": "77E8F2A892F360A0"
-        }
-      ]
-    },
-    "siso": ["612.8"]
-  },
-  {
-    "id": "|oba-catalogus|1034519",
-    "frabl": {
-      "key1": "de voedselzandloper over afvallen en langer jong blijven",
-      "key2": "kris verburgh",
-      "cnt": "3",
-      "value": "44BA75E69F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Kris-Verburgh/De-voedselzandloper-over-afvallen-en-langer/Boek/?itemid=%7coba-catalogus%7c1034519",
-    "titles": [
-      "De voedselzandloper : over afvallen en langer jong blijven",
-      "De voedselzandloper : over afvallen en langer jong blijven / Kris Verburgh"
-    ],
-    "isbn": ["9789035137585"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=338694838&isbn=9789035137585&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/338694838&token=c1322402"
-    ],
-    "formats": [
+    "summaries": ["Beknopte informatie over sporten en gezond eten."],
+    "description": ["130 pagina's", "130 pagina's: illustraties ; 22 cm"],
+    "note": "Op omslag: Voedingscentrum, eerlijk over eten",
+    "series": [
       {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+        "text": "Weet wat je eet"
       }
     ],
-    "authors": ["Kris Verburgh"],
-    "authorsDetailed": [
-      {
-        "full": "Kris Verburgh",
-        "firstname": "Kris",
-        "lastname": "Verburgh",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2012",
-    "publisher": ["Bakker, Amsterdam, 2012"],
-    "subject-topical": ["Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["366 p", "366 p: ill ; 22 cm"],
-    "note": "Met lit. opg., reg",
     "undup": {
-      "alsoAvailableAsCount": "3",
+      "alsoAvailableAsCount": "2",
       "items": [
         {
-          "key1": "de voedselzandloper over afvallen en langer jong blijven",
-          "key2": "kris verburgh",
-          "cnt": "3",
-          "value": "44BA75E69F360A0"
+          "key1": "alles over sport en voeding inclusief dagmenu s en recepten",
+          "key2": "voedingscentrum",
+          "cnt": "2",
+          "value": "54EDFBA140F360A0"
         }
       ]
     },
     "siso": ["628.44"]
   },
   {
-    "id": "|oba-catalogus|1135982",
+    "id": "|oba-catalogus|1218143",
     "frabl": {
-      "key1": "eet gewoon gezond je hoeft niet ziek te zijn om beter te worden",
-      "key2": "anneke van den broek",
+      "key1": "sport en voeding inclusief dagmenu s en recepten",
+      "key2": "",
       "cnt": "1",
-      "value": "7B14114305F360A0"
+      "value": "1FE2B7FC9F1360A0"
     },
-    "detailLink": "http://zoeken.oba.nl/detail/Anneke-van-den-Broek/Eet-gewoon-gezond!-je-hoeft-niet-ziek-te/Boek/?itemid=%7coba-catalogus%7c1135982",
-    "titles": [
-      "Eet gewoon gezond! : je hoeft niet ziek te zijn om beter te worden",
-      "Eet gewoon gezond! : je hoeft niet ziek te zijn om beter te worden / Anneke van den Broek & Martijn van Raamsdonk"
-    ],
-    "isbn": ["=9789490728038"],
+    "detailLink": "http://zoeken.oba.nl/detail/Sport-en-voeding-inclusief-dagmenu%27s-en/Boek/?itemid=%7coba-catalogus%7c1218143",
+    "titles": ["Sport en voeding : inclusief dagmenu's en recepten"],
+    "isbn": ["=9789051770797"],
     "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391745913&isbn=9789490728038&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391745913&token=c1322402"
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420773843&isbn=9789051770797&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420773843&token=c1322402"
     ],
     "formats": [
       {
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
       }
     ],
-    "authors": ["Anneke van den Broek", "Martijn van Raamsdonk"],
+    "year": "2019",
+    "publisher": ["Voedingscentrum, Den Haag, [2019]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "summaries": ["Beknopte informatie over sporten en gezond eten."],
+    "description": ["164 pagina's", "164 pagina's: illustraties ; 23 cm"],
+    "note": "Oorspronkelijke titel: Alles over sport en voeding. - Den Haag : Stichting Voedingscentrum Nederland, (c)2012. - (Weet wat je eet)",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "sport en voeding inclusief dagmenu s en recepten",
+          "key2": "",
+          "cnt": "1",
+          "value": "1FE2B7FC9F1360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1037203",
+    "frabl": {
+      "key1": "alles over sport en voeding",
+      "key2": "",
+      "cnt": "1",
+      "value": "2F0F94CD231360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Alles-over-sport-en-voeding/Boek/?itemid=%7coba-catalogus%7c1037203",
+    "titles": [
+      "Alles over sport en voeding",
+      "Alles over sport en voeding / Voedingscentrum"
+    ],
+    "isbn": ["9789070840228"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=34015845X&isbn=9789070840228&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/34015845X&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "year": "2012",
+    "publisher": ["Stichting Voedingscentrum Nederland, Den Haag, cop. 2012"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "summaries": ["Beknopte informatie over sporten en gezond eten."],
+    "description": ["80 p", "80 p: ill ; 22 cm"],
+    "series": [
+      {
+        "text": "Weet wat je eet"
+      }
+    ],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "alles over sport en voeding",
+          "key2": "",
+          "cnt": "1",
+          "value": "2F0F94CD231360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1233655",
+    "frabl": {
+      "key1": "sport en voeding inclusief dagmenu s en recepten",
+      "key2": "voedingscentrum",
+      "cnt": "1",
+      "value": "55699E7031F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Voedingscentrum/Sport-en-voeding-inclusief-dagmenu%27s-en/Boek/?itemid=%7coba-catalogus%7c1233655",
+    "titles": [
+      "Sport en voeding : inclusief dagmenu's en recepten",
+      "Sport en voeding : inclusief dagmenu's en recepten / Voedingscentrum Nederland"
+    ],
+    "isbn": ["=9789051770841"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=426294467&isbn=9789051770841&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/426294467&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Voedingscentrum"],
     "authorsDetailed": [
       {
-        "full": "Anneke van den Broek",
-        "firstname": "Anneke",
-        "lastname": "Broek",
+        "full": "Voedingscentrum",
+        "lastname": "Voedingscentrum",
+        "localized-type": "Auteur",
+        "creatortype": "unknown"
+      }
+    ],
+    "year": "2020",
+    "publisher": ["Stichting Voedingscentrum Nederland, Den Haag, [2020]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "summaries": ["Beknopte informatie over sporten en gezond eten."],
+    "description": ["164 pagina's", "164 pagina's: illustraties ; 23 cm"],
+    "note": "Op omslag: Voedingscentrum, eerlijk over eten. - Met receptenindex",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "sport en voeding inclusief dagmenu s en recepten",
+          "key2": "voedingscentrum",
+          "cnt": "1",
+          "value": "55699E7031F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1146773",
+    "frabl": {
+      "key1": "voeding en sport een handboek voor trainers begeleiders en top sporters",
+      "key2": "anja van geel",
+      "cnt": "1",
+      "value": "7D8E8FEADAF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Anja-van-Geel/Voeding-en-sport-een-handboek-voor-trainers/Boek/?itemid=%7coba-catalogus%7c1146773",
+    "titles": [
+      "Voeding en sport : een handboek voor trainers, begeleiders en (top)sporters",
+      "Voeding en sport : een handboek voor trainers, begeleiders en (top)sporters / Anja van Geel en Joris Hermans"
+    ],
+    "isbn": ["=9789021559025"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=393397726&isbn=9789021559025&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/393397726&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Anja van Geel", "Joris Hermans"],
+    "authorsDetailed": [
+      {
+        "full": "Anja van Geel",
+        "firstname": "Anja",
+        "lastname": "Geel",
         "localized-type": "Auteur",
         "creatortype": "person"
       },
       {
-        "full": "Martijn van Raamsdonk",
-        "lastname": "Martijn van Raamsdonk",
+        "full": "Joris Hermans",
+        "lastname": "Joris Hermans",
         "localized-type": "Auteur",
         "creatortype": "organization"
       }
     ],
     "year": "2015",
-    "publisher": [
-      "[uitgever niet vastgesteld], [Plaats van uitgave niet vastgesteld], maart 2015"
+    "publisher": ["De Vrieseborch, Utrecht, [2015]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["144 pagina's", "144 pagina's: illustraties ; 24 cm"],
+    "note": "Uitgave onder auspiciën van NOC*NSF in samenwerking met het Voedingscentrum. - Met literatuuropgave",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "voeding en sport een handboek voor trainers begeleiders en top sporters",
+          "key2": "anja van geel",
+          "cnt": "1",
+          "value": "7D8E8FEADAF360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|537778",
+    "frabl": {
+      "key1": "de oudere hond voeding lichamelijke verzorging gezondheid gedrag sport en nog veel meer",
+      "key2": "gerty svan roosmalen",
+      "cnt": "1",
+      "value": "60CA511CF5F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Gerty-S-van-Roosmalen/De-oudere-hond-voeding-lichamelijke/Boek/?itemid=%7coba-catalogus%7c537778",
+    "titles": [
+      "De oudere hond : voeding, lichamelijke verzorging, gezondheid, gedrag, sport en nog veel meer",
+      "De oudere hond : voeding, lichamelijke verzorging, gezondheid, gedrag, sport en nog veel meer / Gerty S. van Roosmalen ; [foto's: Rob Dekker ... et al.]"
     ],
-    "subject-topical": ["Voedingsleer", "Vermageringsrecepten"],
+    "isbn": ["9058210561"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=218009186&isbn=9789058210562&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/218009186&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Gerty S. van Roosmalen"],
+    "authorsDetailed": [
+      {
+        "full": "Gerty S. van Roosmalen",
+        "firstname": "Gerty S.",
+        "lastname": "Roosmalen",
+        "creatortype": "person"
+      }
+    ],
+    "year": "2002",
+    "publisher": ["Welzo Media Productions, Warffum, 2002"],
+    "subject-topical": ["Honden", "Verzorging"],
+    "languages": ["Nederlands"],
+    "description": ["64 p", "64 p: ill ; 21 cm"],
+    "series": [
+      {
+        "text": "Over dieren"
+      }
+    ],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "de oudere hond voeding lichamelijke verzorging gezondheid gedrag sport en nog veel meer",
+          "key2": "gerty svan roosmalen",
+          "cnt": "1",
+          "value": "60CA511CF5F360A0"
+        }
+      ]
+    }
+  },
+  {
+    "id": "|oba-catalogus|566541",
+    "frabl": {
+      "key1": "suikerziekte natuurlijk behandelen alternatieve behandelmethoden van diabetes mellitus voeding en genezend vasten sport antwoorden op de meest gestelde vragen over suikerziekte",
+      "key2": "jutta plath",
+      "cnt": "1",
+      "value": "16EF9CB682F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Jutta-Plath/Suikerziekte-natuurlijk-behandelen/Boek/?itemid=%7coba-catalogus%7c566541",
+    "titles": [
+      "Suikerziekte natuurlijk behandelen : alternatieve behandelmethoden van diabetes mellitus, voeding en genezend vasten, sport, antwoorden op de meest gestelde vragen over suikerziekte",
+      "Suikerziekte natuurlijk behandelen : alternatieve behandelmethoden van diabetes mellitus, voeding en genezend vasten, sport, antwoorden op de meest gestelde vragen over suikerziekte / Jutta Plath ; [vert. uit het Duits: Frank van Gerwen ; foto's: Jutta Plath ; tek.: Brigitte Braun-Dähler]"
+    ],
+    "isbn": ["9060305299"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=114622361&isbn=9789060305294&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/114622361&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Jutta Plath", "F. van Gerwen"],
+    "authorsDetailed": [
+      {
+        "full": "Jutta Plath",
+        "firstname": "Jutta",
+        "lastname": "Plath",
+        "creatortype": "person"
+      },
+      {
+        "full": "F. van Gerwen",
+        "lastname": "F. van Gerwen",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "1994",
+    "publisher": ["De Driehoek, Amsterdam, cop. 1994"],
+    "subject-topical": ["Diabetes"],
+    "languages": ["Nederlands", "Duits"],
+    "description": ["124 p", "124 p: ill., foto's ; 23 cm"],
+    "note": ".",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "suikerziekte natuurlijk behandelen alternatieve behandelmethoden van diabetes mellitus voeding en genezend vasten sport antwoorden op de meest gestelde vragen over suikerziekte",
+          "key2": "jutta plath",
+          "cnt": "1",
+          "value": "16EF9CB682F360A0"
+        }
+      ]
+    },
+    "siso": ["605.16"]
+  },
+  {
+    "id": "|oba-catalogus|1172107",
+    "frabl": {
+      "key1": "het sportkookboek voor duursport verbeter je sportprestaties met de juiste voeding",
+      "key2": "stephanie scheirlynck",
+      "cnt": "1",
+      "value": "79443DFA95F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Stephanie-Scheirlynck/Het-sportkookboek-voor-duursport-verbeter-je/Boek/?itemid=%7coba-catalogus%7c1172107",
+    "titles": [
+      "Het sportkookboek voor duursport : verbeter je sportprestaties met de juiste voeding",
+      "Het sportkookboek voor duursport : verbeter je sportprestaties met de juiste voeding / Stephanie Scheirlynck"
+    ],
+    "isbn": ["=9789401443654"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410824453&isbn=9789401443654&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410824453&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": [
+      "Stephanie Scheirlynck",
+      "Heikki Verdurme",
+      "Katrien Van De Steene"
+    ],
+    "authorsDetailed": [
+      {
+        "full": "Stephanie Scheirlynck",
+        "firstname": "Stephanie",
+        "lastname": "Scheirlynck",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Heikki Verdurme",
+        "lastname": "Heikki Verdurme",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Katrien Van De Steene",
+        "lastname": "Katrien Van De Steene",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2017",
+    "publisher": ["Lannoo, Tielt, [2017]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["142 pagina's", "142 pagina's: illustraties ; 26 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het sportkookboek voor duursport verbeter je sportprestaties met de juiste voeding",
+          "key2": "stephanie scheirlynck",
+          "cnt": "1",
+          "value": "79443DFA95F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1172108",
+    "frabl": {
+      "key1": "het sportkookboek voor krachtsport verbeter je sportprestaties met de juiste voeding",
+      "key2": "stephanie scheirlynck",
+      "cnt": "1",
+      "value": "77F3DDA33DF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Stephanie-Scheirlynck/Het-sportkookboek-voor-krachtsport-verbeter/Boek/?itemid=%7coba-catalogus%7c1172108",
+    "titles": [
+      "Het sportkookboek voor krachtsport : verbeter je sportprestaties met de juiste voeding",
+      "Het sportkookboek voor krachtsport : verbeter je sportprestaties met de juiste voeding / Stephanie Scheirlynck"
+    ],
+    "isbn": ["=9789401443661"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410824437&isbn=9789401443661&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410824437&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": [
+      "Stephanie Scheirlynck",
+      "Heikki Verdurme",
+      "Katrien Van De Steene"
+    ],
+    "authorsDetailed": [
+      {
+        "full": "Stephanie Scheirlynck",
+        "firstname": "Stephanie",
+        "lastname": "Scheirlynck",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Heikki Verdurme",
+        "lastname": "Heikki Verdurme",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Katrien Van De Steene",
+        "lastname": "Katrien Van De Steene",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2017",
+    "publisher": ["Lannoo, Tielt, [2017]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["142 pagina's", "142 pagina's: illustraties ; 26 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het sportkookboek voor krachtsport verbeter je sportprestaties met de juiste voeding",
+          "key2": "stephanie scheirlynck",
+          "cnt": "1",
+          "value": "77F3DDA33DF360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1172109",
+    "frabl": {
+      "key1": "het sportkookboek voor teamsport verbeter je sportprestaties met de juiste voeding",
+      "key2": "stephanie scheirlynck",
+      "cnt": "1",
+      "value": "37F0A342A1F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Stephanie-Scheirlynck/Het-sportkookboek-voor-teamsport-verbeter-je/Boek/?itemid=%7coba-catalogus%7c1172109",
+    "titles": [
+      "Het sportkookboek voor teamsport : verbeter je sportprestaties met de juiste voeding",
+      "Het sportkookboek voor teamsport : verbeter je sportprestaties met de juiste voeding / Stephanie Scheirlynck"
+    ],
+    "isbn": ["=9789401443647"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410824410&isbn=9789401443647&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410824410&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": [
+      "Stephanie Scheirlynck",
+      "Heikki Verdurme",
+      "Katrien Van De Steene"
+    ],
+    "authorsDetailed": [
+      {
+        "full": "Stephanie Scheirlynck",
+        "firstname": "Stephanie",
+        "lastname": "Scheirlynck",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Heikki Verdurme",
+        "lastname": "Heikki Verdurme",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Katrien Van De Steene",
+        "lastname": "Katrien Van De Steene",
+        "localized-type": "Medewerker",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2017",
+    "publisher": ["Lannoo, Tielt, [2017]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["142 pagina's", "142 pagina's: illustraties ; 26 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het sportkookboek voor teamsport verbeter je sportprestaties met de juiste voeding",
+          "key2": "stephanie scheirlynck",
+          "cnt": "1",
+          "value": "37F0A342A1F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1143439",
+    "frabl": {
+      "key1": "het sportkookboek verbeter je sportprestaties met de juiste voeding",
+      "key2": "stephanie scheirlynck",
+      "cnt": "1",
+      "value": "77DB56B338F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Stephanie-Scheirlynck/Het-sportkookboek-verbeter-je/Boek/?itemid=%7coba-catalogus%7c1143439",
+    "titles": [
+      "Het sportkookboek : verbeter je sportprestaties met de juiste voeding",
+      "Het sportkookboek : verbeter je sportprestaties met de juiste voeding / Stephanie Scheirlynck"
+    ],
+    "isbn": ["=9789401428835"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=397725035&isbn=9789401428835&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/397725035&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Stephanie Scheirlynck", "Heikki Verdurme"],
+    "authorsDetailed": [
+      {
+        "full": "Stephanie Scheirlynck",
+        "firstname": "Stephanie",
+        "lastname": "Scheirlynck",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Heikki Verdurme",
+        "lastname": "Heikki Verdurme",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Lannoo, Tielt, [2015]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["238 pagina's", "238 pagina's: foto's ; 26 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het sportkookboek verbeter je sportprestaties met de juiste voeding",
+          "key2": "stephanie scheirlynck",
+          "cnt": "1",
+          "value": "77DB56B338F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1244583",
+    "frabl": {
+      "key1": "het sportkookboek verbeter je sportprestaties met de juiste voeding 2 fotografie heikki verdurme shutterstock unsplash",
+      "key2": "stephanie scheirlynck",
+      "cnt": "1",
+      "value": "5810E6DCC6F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Stephanie-Scheirlynck/Het-sportkookboek-verbeter-je/Boek/?itemid=%7coba-catalogus%7c1244583",
+    "titles": [
+      "Het sportkookboek : verbeter je sportprestaties met de juiste voeding",
+      "Het sportkookboek : verbeter je sportprestaties met de juiste voeding / Stephanie Scheirlynck 2,  / fotografie: Heikki Verdurme, Shutterstock & Unsplash"
+    ],
+    "isbn": ["=9789401474344"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=433025115&isbn=9789401474344&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/433025115&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Stephanie Scheirlynck", "Heikki Verdurme"],
+    "authorsDetailed": [
+      {
+        "full": "Stephanie Scheirlynck",
+        "firstname": "Stephanie",
+        "lastname": "Scheirlynck",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Heikki Verdurme",
+        "lastname": "Heikki Verdurme",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2021",
+    "publisher": ["Lannoo, Tielt, [2021]"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["218 pagina's", "218 pagina's: foto's ; 26 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "het sportkookboek verbeter je sportprestaties met de juiste voeding 2 fotografie heikki verdurme shutterstock unsplash",
+          "key2": "stephanie scheirlynck",
+          "cnt": "1",
+          "value": "5810E6DCC6F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1151187",
+    "frabl": {
+      "key1": "forza cycling een eigentijds fietshandboek over trainen en voeding",
+      "key2": "pieter vanderhaegen",
+      "cnt": "1",
+      "value": "467825C06EF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Pieter-Vanderhaegen/Forza-cycling-een-eigentijds-fietshandboek/Boek/?itemid=%7coba-catalogus%7c1151187",
+    "titles": [
+      "Forza cycling : een eigentijds fietshandboek over trainen en voeding",
+      "Forza cycling : een eigentijds fietshandboek over trainen en voeding / auteurs: Pieter Vanderhaegen en Nick Audooren"
+    ],
+    "isbn": ["=9789089316103"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=401673804&isbn=9789089316103&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/401673804&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Pieter Vanderhaegen", "Nick Audooren", "Raf Liekens"],
+    "authorsDetailed": [
+      {
+        "full": "Pieter Vanderhaegen",
+        "firstname": "Pieter",
+        "lastname": "Vanderhaegen",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Nick Audooren",
+        "lastname": "Nick Audooren",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Raf Liekens",
+        "lastname": "Raf Liekens",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2016",
+    "publisher": ["Borgerhoff & Lamberigts, Gent, februari 2016"],
+    "subject-topical": ["Wielrennen", "Training", "Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["191 pagina's", "191 pagina's: illustraties ; 21 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "forza cycling een eigentijds fietshandboek over trainen en voeding",
+          "key2": "pieter vanderhaegen",
+          "cnt": "1",
+          "value": "467825C06EF360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1179260",
+    "frabl": {
+      "key1": "goud op je bord voor iedereen die van sport en lekker eten houdt deel 2",
+      "key2": "brenda frunt",
+      "cnt": "1",
+      "value": "4B1976A0EFF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Brenda-Frunt/Goud-op-je-bord-voor-iedereen-die-van-sport/Boek/?itemid=%7coba-catalogus%7c1179260",
+    "titles": [
+      "Goud op je bord : voor iedereen die van sport en lekker eten houdt",
+      "Goud op je bord : voor iedereen die van sport en lekker eten houdt / Brenda Frunt Deel 2"
+    ],
+    "isbn": ["=9789054723950"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=412988119&isbn=9789054723950&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/412988119&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": [
+      "Brenda Frunt",
+      "Erik te Velthuis",
+      "Janeke de Zeeuw",
+      "Friso Schotanus",
+      "Michel Zoeter"
+    ],
+    "authorsDetailed": [
+      {
+        "full": "Brenda Frunt",
+        "firstname": "Brenda",
+        "lastname": "Frunt",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Erik te Velthuis",
+        "lastname": "Erik te Velthuis",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Janeke de Zeeuw",
+        "lastname": "Janeke de Zeeuw",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Friso Schotanus",
+        "lastname": "Friso Schotanus",
+        "localized-type": "Interviewer",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Michel Zoeter",
+        "lastname": "Michel Zoeter",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2017",
+    "publisher": ["Arko Sports Media, Nieuwegein, [2017]"],
+    "subject-topical": ["Kookboeken", "Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["183 pagina's", "183 pagina's: illustraties ; 24 cm"],
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "goud op je bord voor iedereen die van sport en lekker eten houdt deel 2",
+          "key2": "brenda frunt",
+          "cnt": "1",
+          "value": "4B1976A0EFF360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1145008",
+    "frabl": {
+      "key1": "i love health it s all about food sport health and more",
+      "key2": "daisy oppelaar",
+      "cnt": "1",
+      "value": "4F08EFDBCEF360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Daisy-Oppelaar/I-love-health-it%27s-all-about-food-sport/Boek/?itemid=%7coba-catalogus%7c1145008",
+    "titles": [
+      "I love health : it's all about food, sport, health and more",
+      "I love health : it's all about food, sport, health and more / Daisy Oppelaar"
+    ],
+    "isbn": ["=9789021560137", "=9789021560151"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=393975762&isbn=9789021560137&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/393975762&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Daisy Oppelaar", "Sven ter Heide"],
+    "authorsDetailed": [
+      {
+        "full": "Daisy Oppelaar",
+        "firstname": "Daisy",
+        "lastname": "Oppelaar",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Sven ter Heide",
+        "lastname": "Sven ter Heide",
+        "localized-type": "Illustrator",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2015",
+    "publisher": ["Kosmos, Utrecht, [2015]"],
+    "subject-topical": [
+      "Kookboeken",
+      "Gezondheidsgidsen",
+      "Voeding",
+      "Conditietraining"
+    ],
     "languages": ["Nederlands"],
     "summaries": [
-      "De grote gezondheidsproblemen van nu worden besproken en de auteurs tonen aan hoe je via voeding de gezondste versie van jezelf kunt vinden. Geen dieetboek, of kookboek, maar wel recepten."
+      "De auteur is een bekende blogger over gezondheid, sport, eenvoudige recepten en handige tips en deelt haar passie nu in boekvorm."
     ],
-    "description": ["144 pagina's", "144 pagina's: illustraties ; 24 cm"],
+    "description": ["207 pagina's", "207 pagina's: illustraties ; 25 cm"],
     "note": "Met register",
     "undup": {
       "alsoAvailableAsCount": "0",
       "items": [
         {
-          "key1": "eet gewoon gezond je hoeft niet ziek te zijn om beter te worden",
-          "key2": "anneke van den broek",
+          "key1": "i love health it s all about food sport health and more",
+          "key2": "daisy oppelaar",
           "cnt": "1",
-          "value": "7B14114305F360A0"
+          "value": "4F08EFDBCEF360A0"
         }
       ]
     },
-    "siso": ["629.55"]
+    "siso": ["616.6"]
   },
   {
-    "id": "|oba-catalogus|1133326",
+    "id": "|oba-catalogus|1162272",
     "frabl": {
-      "key1": "eet jezelf mooi slank gelukkig",
-      "key2": "amber albarda",
-      "cnt": "2",
-      "value": "DCEF4E128F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Amber-Albarda/Eet-jezelf-mooi-slank-gelukkig/Boek/?itemid=%7coba-catalogus%7c1133326",
-    "titles": [
-      "Eet jezelf mooi, slank & gelukkig",
-      "Eet jezelf mooi, slank & gelukkig / Amber Albarda"
-    ],
-    "isbn": ["=9789000339921", "=9789000339921"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=390796352&isbn=9789000339921&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/390796352&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Amber Albarda"],
-    "authorsDetailed": [
-      {
-        "full": "Amber Albarda",
-        "firstname": "Amber",
-        "lastname": "Albarda",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2015",
-    "publisher": ["Spectrum, Houten, 2015"],
-    "subject-topical": ["Voedingsleer"],
-    "languages": ["Nederlands"],
-    "summaries": [
-      "Over verandering van eetgewoontes en volgen van een gezond voedingspatroon."
-    ],
-    "description": ["255 pagina's", "255 pagina's: illustraties ; 25 cm"],
-    "note": "Met literatuuropgave, register",
-    "undup": {
-      "alsoAvailableAsCount": "2",
-      "items": [
-        {
-          "key1": "eet jezelf mooi slank gelukkig",
-          "key2": "amber albarda",
-          "cnt": "2",
-          "value": "DCEF4E128F360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1207994",
-    "frabl": {
-      "key1": "eet meer energie voor een vitaal en vrolijk leven",
-      "key2": "marjolein dubbers",
+      "key1": "het sportkookboek voor jongeren het complete voedingsprogramma voor opgroeiende sporters",
+      "key2": "stephanie scheirlynck",
       "cnt": "1",
-      "value": "309E628BA8F360A0"
+      "value": "CF0D55BABF360A0"
     },
-    "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Eet-meer-energie-voor-een-vitaal-en-vrolijk/Boek/?itemid=%7coba-catalogus%7c1207994",
+    "detailLink": "http://zoeken.oba.nl/detail/Stephanie-Scheirlynck/Het-sportkookboek-voor-jongeren-het-complete/Boek/?itemid=%7coba-catalogus%7c1162272",
     "titles": [
-      "Eet meer energie : voor een vitaal en vrolijk leven",
-      "Eet meer energie : voor een vitaal en vrolijk leven / Marjolein Dubbers"
+      "Het sportkookboek voor jongeren : het complete voedingsprogramma voor opgroeiende sporters",
+      "Het sportkookboek voor jongeren : het complete voedingsprogramma voor opgroeiende sporters / Stephanie Scheirlynck"
     ],
-    "isbn": ["=9789021566863", "=9789021566870"],
+    "isbn": ["=9789401435260"],
     "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=418651108&isbn=9789021566863&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/418651108&token=c1322402"
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=406565538&isbn=9789401435260&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/406565538&token=c1322402"
     ],
     "formats": [
       {
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
       }
     ],
-    "authors": ["Marjolein Dubbers", "Hester Bruning"],
+    "authors": ["Stephanie Scheirlynck", "Heikki Verdurme"],
     "authorsDetailed": [
       {
-        "full": "Marjolein Dubbers",
-        "firstname": "Marjolein",
-        "lastname": "Dubbers",
+        "full": "Stephanie Scheirlynck",
+        "firstname": "Stephanie",
+        "lastname": "Scheirlynck",
         "localized-type": "Auteur",
         "creatortype": "person"
       },
       {
-        "full": "Hester Bruning",
-        "lastname": "Hester Bruning",
-        "localized-type": "Redacteur",
+        "full": "Heikki Verdurme",
+        "lastname": "Heikki Verdurme",
+        "localized-type": "Illustrator",
         "creatortype": "organization"
       }
     ],
-    "year": "2018",
-    "publisher": ["Kosmos Uitgevers, Utrecht, [2018]"],
-    "subject-topical": ["Voeding", "Gezondheid", "Voedingsleer"],
+    "year": "2016",
+    "publisher": ["Lannoo, Tielt, [2016]"],
+    "subject-topical": [
+      "Kindervoeding",
+      "Voeding",
+      "Jongeren",
+      "Sport",
+      "Kinderen"
+    ],
     "languages": ["Nederlands"],
-    "description": ["287 pagina's", "287 pagina's: illustraties ; 24 cm"],
-    "note": "Met literatuuropgave, register",
+    "summaries": [
+      "Wat eet je als jonge sporter op een schooldag, voor en na een training, op een wedstrijddag of een vrije dag? Bevat informatie over voeding en uitleg van 65 recepten voor meestal één persoon. Met paginagrote kleurenfoto's. Voor opvoeders van kinderen van ca. 7 t/m 15 jaar. Zelfstandig vanaf ca. 13 jaar."
+    ],
+    "description": ["190 pagina's", "190 pagina's: illustraties ; 26 cm"],
     "undup": {
       "alsoAvailableAsCount": "0",
       "items": [
         {
-          "key1": "eet meer energie voor een vitaal en vrolijk leven",
-          "key2": "marjolein dubbers",
+          "key1": "het sportkookboek voor jongeren het complete voedingsprogramma voor opgroeiende sporters",
+          "key2": "stephanie scheirlynck",
           "cnt": "1",
-          "value": "309E628BA8F360A0"
+          "value": "CF0D55BABF360A0"
         }
       ]
     },
-    "siso": ["628.4"]
+    "siso": ["J628.44"]
   },
   {
-    "id": "|oba-catalogus|212078",
+    "id": "|oba-catalogus|1138431",
     "frabl": {
-      "key1": "handleiding voor de grasparkietkweker geschiedenis praktische kweek voedingsleer vederstructuur erfelijkheid van kleur en fysieke eigenschappen schematisch uitgewerkte voorstellingen van de gameetvorming",
-      "key2": "wbeckmann",
+      "key1": "in perfecte conditie topfit met een tophockeyster",
+      "key2": "ellen hoog",
       "cnt": "1",
-      "value": "9DF6AA546F360A0"
+      "value": "4F69652EADF360A0"
     },
-    "detailLink": "http://zoeken.oba.nl/detail/W-Beckmann/Handleiding-voor-de-grasparkietkweker/Boek/?itemid=%7coba-catalogus%7c212078",
+    "detailLink": "http://zoeken.oba.nl/detail/Ellen-Hoog/In-perfecte-conditie-topfit-met-een/Boek/?itemid=%7coba-catalogus%7c1138431",
     "titles": [
-      "Handleiding voor de grasparkietkweker : geschiedenis, praktische kweek, voedingsleer, vederstructuur, erfelijkheid van kleur- en fysieke eigenschappen, schematisch uitgewerkte voorstellingen van de gameetvorming",
-      "Handleiding voor de grasparkietkweker : geschiedenis, praktische kweek, voedingsleer, vederstructuur, erfelijkheid van kleur- en fysieke eigenschappen, schematisch uitgewerkte voorstellingen van de gameetvorming / door W. Beckmann ; [foto's: A.G. de Bruijn]"
+      "In perfecte conditie : topfit met een tophockeyster",
+      "In perfecte conditie : topfit met een tophockeyster / Ellen Hoog"
     ],
-    "isbn": ["9003921024 (geb.)"],
+    "isbn": ["=9789048825851"],
     "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=052086526&isbn=9789003921024&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/052086526&token=c1322402"
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391594184&isbn=9789048825851&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391594184&token=c1322402"
     ],
     "formats": [
       {
         "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
       }
     ],
-    "authors": ["W. Beckmann"],
+    "authors": ["Ellen Hoog"],
     "authorsDetailed": [
       {
-        "full": "W. Beckmann",
-        "firstname": "W.",
-        "lastname": "Beckmann",
-        "creatortype": "person"
-      }
-    ],
-    "year": "1989",
-    "publisher": ["Thieme, Zutphen, cop. 1989"],
-    "subject-topical": ["Grasparkieten"],
-    "languages": ["Nederlands"],
-    "description": ["256 p", "256 p: foto's ; 25 cm"],
-    "note": "Met lit. opg",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "handleiding voor de grasparkietkweker geschiedenis praktische kweek voedingsleer vederstructuur erfelijkheid van kleur en fysieke eigenschappen schematisch uitgewerkte voorstellingen van de gameetvorming",
-          "key2": "wbeckmann",
-          "cnt": "1",
-          "value": "9DF6AA546F360A0"
-        }
-      ]
-    },
-    "siso": ["634.62"]
-  },
-  {
-    "id": "|oba-catalogus|1140307",
-    "frabl": {
-      "key1": "heel de huid chinese voedingsleer",
-      "key2": "ronald riksen",
-      "cnt": "1",
-      "value": "5F855AA1DF360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Ronald-Riksen/Heel-de-huid-Chinese-voedingsleer/Boek/?itemid=%7coba-catalogus%7c1140307",
-    "titles": [
-      "Heel de huid : Chinese voedingsleer",
-      "Heel de huid : Chinese voedingsleer / Ronald Riksen"
-    ],
-    "isbn": ["=9789073930407"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=395956579&isbn=9789073930407&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/395956579&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Ronald Riksen"],
-    "authorsDetailed": [
-      {
-        "full": "Ronald Riksen",
-        "firstname": "Ronald",
-        "lastname": "Riksen",
+        "full": "Ellen Hoog",
+        "firstname": "Ellen",
+        "lastname": "Hoog",
         "localized-type": "Auteur",
         "creatortype": "person"
       }
     ],
     "year": "2015",
-    "publisher": ["Seapress, Rijswijk, [2015]"],
-    "subject-topical": ["Voedingsleer", "China"],
+    "publisher": ["Carrera Culinair, Amsterdam, 2015"],
+    "subject-topical": ["Kookboeken", "Voeding", "Sport", "Conditietraining"],
+    "languages": ["Nederlands"],
+    "description": ["222 pagina's", "222 pagina's: illustraties ; 25 cm"],
+    "note": "Met register",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "in perfecte conditie topfit met een tophockeyster",
+          "key2": "ellen hoog",
+          "cnt": "1",
+          "value": "4F69652EADF360A0"
+        }
+      ]
+    },
+    "siso": ["616.6"]
+  },
+  {
+    "id": "|oba-catalogus|211628",
+    "frabl": {
+      "key1": "sportvoeding voor betere prestaties",
+      "key2": "anita bean",
+      "cnt": "1",
+      "value": "43843D78A3F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Anita-Bean/Sportvoeding-voor-betere-prestaties/Boek/?itemid=%7coba-catalogus%7c211628",
+    "titles": [
+      "Sportvoeding voor betere prestaties",
+      "Sportvoeding voor betere prestaties / Anita Bean ; [ill.: Tina Howe ; vert. uit het Engels: Mirjam Bosman]"
+    ],
+    "isbn": ["9044705946"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=28235316X&isbn=9789044705942&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/28235316X&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Anita Bean", "Mirjam Bosman"],
+    "authorsDetailed": [
+      {
+        "full": "Anita Bean",
+        "firstname": "Anita",
+        "lastname": "Bean",
+        "creatortype": "person"
+      },
+      {
+        "full": "Mirjam Bosman",
+        "lastname": "Mirjam Bosman",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2005",
+    "publisher": ["Aartselaar", "Deltas, [Oosterhout], cop. 2005"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands", "Engels"],
+    "description": ["144 p", "144 p: ill ; 23 cm"],
+    "note": "Met reg",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "sportvoeding voor betere prestaties",
+          "key2": "anita bean",
+          "cnt": "1",
+          "value": "43843D78A3F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1167070",
+    "frabl": {
+      "key1": "wegwijs in sportvoeding kracht duur en recreatiesport",
+      "key2": "irene lelieveld",
+      "cnt": "1",
+      "value": "590C1883A8F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Irene-Lelieveld/Wegwijs-in-sportvoeding-kracht-duur-en/Boek/?itemid=%7coba-catalogus%7c1167070",
+    "titles": [
+      "Wegwijs in sportvoeding : kracht-, duur- en recreatiesport",
+      "Wegwijs in sportvoeding : kracht-, duur- en recreatiesport / Irene Lelieveld"
+    ],
+    "isbn": ["=9789038925745"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=409081477&isbn=9789038925745&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/409081477&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Irene Lelieveld", "Sascha Engering"],
+    "authorsDetailed": [
+      {
+        "full": "Irene Lelieveld",
+        "firstname": "Irene",
+        "lastname": "Lelieveld",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Sascha Engering",
+        "lastname": "Sascha Engering",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2017",
+    "publisher": ["Elmar, Delft, 2017"],
+    "subject-topical": ["Voeding", "Sport"],
+    "languages": ["Nederlands"],
+    "description": ["240 pagina's", "240 pagina's: illustraties ; 23 cm"],
+    "note": "Op omslag: De gezonde eter. - Met index",
+    "undup": {
+      "alsoAvailableAsCount": "0",
+      "items": [
+        {
+          "key1": "wegwijs in sportvoeding kracht duur en recreatiesport",
+          "key2": "irene lelieveld",
+          "cnt": "1",
+          "value": "590C1883A8F360A0"
+        }
+      ]
+    },
+    "siso": ["628.44"]
+  },
+  {
+    "id": "|oba-catalogus|1158519",
+    "frabl": {
+      "key1": "sportables",
+      "key2": "karin lambrechtse",
+      "cnt": "1",
+      "value": "67607BF5D9F360A0"
+    },
+    "detailLink": "http://zoeken.oba.nl/detail/Karin-Lambrechtse/Sportables/Boek/?itemid=%7coba-catalogus%7c1158519",
+    "titles": [
+      "Sportables",
+      "Sportables / Karin Lambrechtse & Eline van der Raad"
+    ],
+    "isbn": ["=9789492206220"],
+    "coverimages": [
+      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=403276942&isbn=9789492206220&lid=&aut=&ti=&size=70",
+      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/403276942&token=c1322402"
+    ],
+    "formats": [
+      {
+        "text": "Boek",
+        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235939"
+      }
+    ],
+    "authors": ["Karin Lambrechtse", "Eline van der Raad", "Marije Sietsma"],
+    "authorsDetailed": [
+      {
+        "full": "Karin Lambrechtse",
+        "firstname": "Karin",
+        "lastname": "Lambrechtse",
+        "localized-type": "Auteur",
+        "creatortype": "person"
+      },
+      {
+        "full": "Eline van der Raad",
+        "lastname": "Eline van der Raad",
+        "localized-type": "Auteur",
+        "creatortype": "organization"
+      },
+      {
+        "full": "Marije Sietsma",
+        "lastname": "Marije Sietsma",
+        "localized-type": "Redacteur",
+        "creatortype": "organization"
+      }
+    ],
+    "year": "2016",
+    "publisher": ["Uitgeverij Loopvis, Groningen, juli 2016"],
+    "subject-topical": ["Voeding", "Sport"],
     "languages": ["Nederlands"],
     "summaries": [
-      "Een holistische benadering en praktische uitwerking van gezonde voeding o.b.v. het traditionele Chinese 'energie-denken', als tegenstelling tot het westerse 'in voedingsstofjes' denken."
+      "Handboek voor sporters om zelf sportvoeding te maken, met veel recepten en voedingstechnische informatie."
     ],
-    "description": ["319 pagina's", "319 pagina's ; 22 cm"],
+    "description": ["249 pagina's", "249 pagina's: illustraties ; 25 cm"],
     "note": "Met index",
     "undup": {
       "alsoAvailableAsCount": "0",
       "items": [
         {
-          "key1": "heel de huid chinese voedingsleer",
-          "key2": "ronald riksen",
+          "key1": "sportables",
+          "key2": "karin lambrechtse",
           "cnt": "1",
-          "value": "5F855AA1DF360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1202124",
-    "frabl": {
-      "key1": "het pioppi dieet een lifestyleplan in 21 dagen",
-      "key2": "aseem malhotra",
-      "cnt": "1",
-      "value": "E29FFA4A7F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Aseem-Malhotra/Het-Pioppi-dieet-een-lifestyleplan-in-21-dagen/Boek/?itemid=%7coba-catalogus%7c1202124",
-    "titles": [
-      "Het Pioppi-dieet : een lifestyleplan in 21 dagen",
-      "Het Pioppi-dieet : een lifestyleplan in 21 dagen / Dr. Aseem Malhotra & Donal O'Neill"
-    ],
-    "isbn": ["=9789045216126"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=418851786&isbn=9789045216126&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/418851786&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Aseem Malhotra", "Donal O'Neill", "Mariëlle Steinpatz"],
-    "authorsDetailed": [
-      {
-        "full": "Aseem Malhotra",
-        "firstname": "Aseem",
-        "lastname": "Malhotra",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      },
-      {
-        "full": "Donal O'Neill",
-        "lastname": "Donal O'Neill",
-        "localized-type": "Auteur",
-        "creatortype": "organization"
-      },
-      {
-        "full": "Mariëlle Steinpatz",
-        "lastname": "Mariëlle Steinpatz",
-        "localized-type": "Vertaler",
-        "creatortype": "organization"
-      }
-    ],
-    "year": "2018",
-    "publisher": ["Karakter Uitgevers B.V., Uithoorn, [2018]"],
-    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer", "Kookboeken"],
-    "languages": ["Nederlands", "Engels"],
-    "description": [
-      "349 pagina's, 24 ongenummerde pagina's platen",
-      "349 pagina's, 24 ongenummerde pagina's platen: illustraties ; 22 cm"
-    ],
-    "note": "Vertaling van: The Pioppi diet. - Londen : Penguin Books, 2017",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "het pioppi dieet een lifestyleplan in 21 dagen",
-          "key2": "aseem malhotra",
-          "cnt": "1",
-          "value": "E29FFA4A7F360A0"
-        }
-      ]
-    },
-    "siso": ["615"]
-  },
-  {
-    "id": "|oba-catalogus|1162443",
-    "frabl": {
-      "key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
-      "key2": "marjolein dubbers",
-      "cnt": "1",
-      "value": "5B55C936B0F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Het-energieke-vrouwen-voedingskompas/Boek/?itemid=%7coba-catalogus%7c1162443",
-    "titles": [
-      "Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven",
-      "Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven / Marjolein Dubbers"
-    ],
-    "isbn": ["=9789021563732", "=9789021563749"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=405033354&isbn=9789021563732&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/405033354&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Marjolein Dubbers", "Hester Bruning"],
-    "authorsDetailed": [
-      {
-        "full": "Marjolein Dubbers",
-        "firstname": "Marjolein",
-        "lastname": "Dubbers",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      },
-      {
-        "full": "Hester Bruning",
-        "lastname": "Hester Bruning",
-        "localized-type": "Redacteur",
-        "creatortype": "organization"
-      }
-    ],
-    "year": "2016",
-    "publisher": ["Kosmos Uitgevers, Utrecht, [2016]"],
-    "subject-topical": ["Vrouwen", "Gezondheid", "Hormonen", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["287 pagina's", "287 pagina's: illustraties ; 24 cm"],
-    "note": "Met literatuuropgave, register",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
-          "key2": "marjolein dubbers",
-          "cnt": "1",
-          "value": "5B55C936B0F360A0"
+          "value": "67607BF5D9F360A0"
         }
       ]
     },
     "siso": ["628.44"]
-  },
-  {
-    "id": "|oba-catalogus|337965",
-    "frabl": {
-      "key1": "het vijf elementen kookboek de traditionele chinese voedingsleer voor de westerse keuken met 150 recepten voor versterking van lichaam en geest",
-      "key2": "barbara temelie",
-      "cnt": "1",
-      "value": "5DE539CC97F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Barbara-Temelie/Het-vijf-elementen-kookboek-de-traditionele/Boek/?itemid=%7coba-catalogus%7c337965",
-    "titles": [
-      "Het vijf elementen kookboek : de traditionele Chinese voedingsleer voor de westerse keuken : met 150 recepten voor versterking van lichaam en geest",
-      "Het vijf elementen kookboek : de traditionele Chinese voedingsleer voor de westerse keuken : met 150 recepten voor versterking van lichaam en geest / Barbara Temelie & Beatrice Trebuth"
-    ],
-    "isbn": ["9063783167"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=134801121&isbn=9789063783167&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/134801121&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Barbara Temelie", "Beatrice Trebuth", "Piet Hein Geurink"],
-    "authorsDetailed": [
-      {
-        "full": "Barbara Temelie",
-        "firstname": "Barbara",
-        "lastname": "Temelie",
-        "creatortype": "person"
-      },
-      {
-        "full": "Beatrice Trebuth",
-        "lastname": "Beatrice Trebuth",
-        "creatortype": "organization"
-      },
-      {
-        "full": "Piet Hein Geurink",
-        "lastname": "Piet Hein Geurink",
-        "creatortype": "organization"
-      }
-    ],
-    "year": "1995",
-    "publisher": ["Schors, Amsterdam, cop. 1995"],
-    "subject-topical": ["Chinese recepten", "Voedingsleer", "China"],
-    "languages": ["Nederlands", "Duits"],
-    "description": ["VI, 185 p", "VI, 185 p: ill ; 22 cm"],
-    "note": "Vert. van: Das fünf Elemente Kochbuch. - Sulzberg : Joy, 1993",
-    "collection": "Smibanese",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "het vijf elementen kookboek de traditionele chinese voedingsleer voor de westerse keuken met 150 recepten voor versterking van lichaam en geest",
-          "key2": "barbara temelie",
-          "cnt": "1",
-          "value": "5DE539CC97F360A0"
-        }
-      ]
-    },
-    "siso": ["China 629.63"]
-  },
-  {
-    "id": "|oba-catalogus|1162583",
-    "frabl": {
-      "key1": "hoe word je 100 het actieboek overtollig gewicht verliezen gezond blijven en zelf ziekten genezen op wetenschap gebaseerd met spectaculaire feiten",
-      "key2": "william cortvriendt",
-      "cnt": "1",
-      "value": "5D0BBD9C62F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/William-Cortvriendt/Hoe-word-je-100/Boek/?itemid=%7coba-catalogus%7c1162583",
-    "titles": [
-      "Hoe word je 100?",
-      "Hoe word je 100? Het actieboek : overtollig gewicht verliezen, gezond blijven en zelf ziekten genezen, op wetenschap gebaseerd met spectaculaire feiten / William Cortvriendt"
-    ],
-    "isbn": ["=9789492495037"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=407405186&isbn=9789492495037&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/407405186&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["William Cortvriendt"],
-    "authorsDetailed": [
-      {
-        "full": "William Cortvriendt",
-        "firstname": "William",
-        "lastname": "Cortvriendt",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2016",
-    "publisher": ["Water, [Nederhorst den Berg], november 2016"],
-    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["239 pagina's", "239 pagina's ; 25 cm"],
-    "note": "Met literatuuropgave",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "hoe word je 100 het actieboek overtollig gewicht verliezen gezond blijven en zelf ziekten genezen op wetenschap gebaseerd met spectaculaire feiten",
-          "key2": "william cortvriendt",
-          "cnt": "1",
-          "value": "5D0BBD9C62F360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1127498",
-    "frabl": {
-      "key1": "hoe word je 100 de feiten over hoe we gezond en jong blijven",
-      "key2": "william cortvriendt",
-      "cnt": "1",
-      "value": "33970250C4F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/William-Cortvriendt/Hoe-word-je-100-de-feiten-over-hoe-we/Boek/?itemid=%7coba-catalogus%7c1127498",
-    "titles": [
-      "Hoe word je 100? : de feiten over hoe we gezond en jong blijven",
-      "Hoe word je 100? : de feiten over hoe we gezond en jong blijven / William Cortvriendt"
-    ],
-    "isbn": ["=9789491729201"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=377523992&isbn=9789491729201&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/377523992&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["William Cortvriendt"],
-    "authorsDetailed": [
-      {
-        "full": "William Cortvriendt",
-        "firstname": "William",
-        "lastname": "Cortvriendt",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2015",
-    "publisher": ["Uitgeverij Lucht BV, Nederhorst den Berg, januari 2015"],
-    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "summaries": [
-      "In alledaagse taal zet een arts het belang van een gezonde leefstijl en de kracht van voeding uiteen."
-    ],
-    "description": ["320 pagina's", "320 pagina's: illustraties ; 23 cm"],
-    "note": "Met index, literatuuropgave",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "hoe word je 100 de feiten over hoe we gezond en jong blijven",
-          "key2": "william cortvriendt",
-          "cnt": "1",
-          "value": "33970250C4F360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1143755",
-    "frabl": {
-      "key1": "maak je niet dik van onzinnige dieten tot het ongezondste overheidsadvies ooit maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen",
-      "key2": "william cortvriendt",
-      "cnt": "1",
-      "value": "5BABD4B320F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/William-Cortvriendt/Maak-je-niet-dik-van-onzinnige-dieten-tot/Boek/?itemid=%7coba-catalogus%7c1143755",
-    "titles": [
-      "Maak je niet dik : van onzinnige diëten tot het ongezondste overheidsadvies ooit : maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen",
-      "Maak je niet dik : van onzinnige diëten tot het ongezondste overheidsadvies ooit : maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen / William Cortvriendt"
-    ],
-    "isbn": ["=9789491729379"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=394220498&isbn=9789491729379&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/394220498&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["William Cortvriendt"],
-    "authorsDetailed": [
-      {
-        "full": "William Cortvriendt",
-        "firstname": "William",
-        "lastname": "Cortvriendt",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2015",
-    "publisher": ["Uitgeverij Lucht BV, Nederhorst den Berg, november 2015"],
-    "subject-topical": ["Gezondheidsgidsen", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["280 pagina's", "280 pagina's ; 23 cm"],
-    "note": "Met literatuuropgave",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "maak je niet dik van onzinnige dieten tot het ongezondste overheidsadvies ooit maar vooral over wat wel gezond is en hoe we blijvend kunnen afvallen",
-          "key2": "william cortvriendt",
-          "cnt": "1",
-          "value": "5BABD4B320F360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1187332",
-    "frabl": {
-      "key1": "personal body plan the fat burning guide",
-      "key2": "tom barten",
-      "cnt": "1",
-      "value": "66083F507EF360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Tom-Barten/Personal-Body-Plan-the-fat-burning-guide/Boek/?itemid=%7coba-catalogus%7c1187332",
-    "titles": [
-      "Personal Body Plan : the fat burning guide",
-      "Personal Body Plan : the fat burning guide / Tom Barten"
-    ],
-    "isbn": ["=9789000353354"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=404992986&isbn=9789000353354&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/404992986&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Tom Barten"],
-    "authorsDetailed": [
-      {
-        "full": "Tom Barten",
-        "firstname": "Tom",
-        "lastname": "Barten",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2018",
-    "publisher": ["Spectrum, Houten, 2018"],
-    "subject-topical": ["Conditietraining", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["186 pagina's", "186 pagina's: illustraties ; 25 cm"],
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "personal body plan the fat burning guide",
-          "key2": "tom barten",
-          "cnt": "1",
-          "value": "66083F507EF360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1141159",
-    "frabl": {
-      "key1": "veroudering vertragen het langer jong plan",
-      "key2": "kris verburgh",
-      "cnt": "1",
-      "value": "5C2D37B5F9F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Kris-Verburgh/Veroudering-vertragen-het-langer-jong-plan/Boek/?itemid=%7coba-catalogus%7c1141159",
-    "titles": [
-      "Veroudering vertragen : het langer jong-plan",
-      "Veroudering vertragen : het langer jong-plan / Kris Verburgh"
-    ],
-    "isbn": ["=9789035143982", "=9789035143470"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=394167376&isbn=9789035143982&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/394167376&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Kris Verburgh"],
-    "authorsDetailed": [
-      {
-        "full": "Kris Verburgh",
-        "firstname": "Kris",
-        "lastname": "Verburgh",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2015",
-    "publisher": ["Prometheus Bert Bakker, Amsterdam, 2015"],
-    "subject-topical": ["Gerontologie", "Verouderen", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["326 pagina's", "326 pagina's: illustraties ; 23 cm"],
-    "note": "Met literatuuropgave",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "veroudering vertragen het langer jong plan",
-          "key2": "kris verburgh",
-          "cnt": "1",
-          "value": "5C2D37B5F9F360A0"
-        }
-      ]
-    },
-    "siso": ["324"]
-  },
-  {
-    "id": "|oba-catalogus|1216617",
-    "frabl": {
-      "key1": "vet belangrijk feiten en fabels over voeding vetverbranding en verborgen dikmakers",
-      "key2": "mariette boon",
-      "cnt": "1",
-      "value": "3FD3D00308F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Mariette-Boon/Vet-belangrijk-feiten-en-fabels-over-voeding/Boek/?itemid=%7coba-catalogus%7c1216617",
-    "titles": [
-      "Vet belangrijk : feiten en fabels over voeding, vetverbranding en verborgen dikmakers",
-      "Vet belangrijk : feiten en fabels over voeding, vetverbranding en verborgen dikmakers / Mariëtte Boon & Liesbeth van Rossum"
-    ],
-    "isbn": ["=9789026346521"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420774718&isbn=9789026346521&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420774718&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Mariëtte Boon", "Liesbeth van Rossum"],
-    "authorsDetailed": [
-      {
-        "full": "Mariëtte Boon",
-        "firstname": "Mariëtte",
-        "lastname": "Boon",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      },
-      {
-        "full": "Liesbeth van Rossum",
-        "lastname": "Liesbeth van Rossum",
-        "localized-type": "Auteur",
-        "creatortype": "organization"
-      }
-    ],
-    "year": "2019",
-    "publisher": ["Ambo|Anthos, Amsterdam, [2019]"],
-    "subject-topical": ["Vet", "Voedingsleer"],
-    "languages": ["Nederlands"],
-    "description": ["247 pagina's", "247 pagina's: illustraties ; 22 cm"],
-    "note": "Met literatuuropgave, register",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "vet belangrijk feiten en fabels over voeding vetverbranding en verborgen dikmakers",
-          "key2": "mariette boon",
-          "cnt": "1",
-          "value": "3FD3D00308F360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1239699",
-    "frabl": {
-      "key1": "voeding immuunsysteem ontdek de energie om een leven te creeren waar je verliefd op wordt",
-      "key2": "marjolein dubbers",
-      "cnt": "1",
-      "value": "605B187CC8F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Voeding-immuunsysteem-ontdek-de-energie-om/Boek/?itemid=%7coba-catalogus%7c1239699",
-    "titles": [
-      "Voeding & immuunsysteem : ontdek de energie om een leven te creëren waar je verliefd op wordt",
-      "Voeding & immuunsysteem : ontdek de energie om een leven te creëren waar je verliefd op wordt / Marjolein Dubbers"
-    ],
-    "isbn": ["=9789021578224"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=427783054&isbn=9789021578224&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/427783054&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Marjolein Dubbers"],
-    "authorsDetailed": [
-      {
-        "full": "Marjolein Dubbers",
-        "firstname": "Marjolein",
-        "lastname": "Dubbers",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2021",
-    "publisher": ["Kosmos, Utrecht, [2021]"],
-    "subject-topical": [
-      "Vrouwen",
-      "Gezondheid",
-      "Immuunsysteem",
-      "Voedingsleer"
-    ],
-    "languages": ["Nederlands"],
-    "description": ["159 pagina's", "159 pagina's: illustraties ; 22 cm"],
-    "note": "Met literatuuropgave",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "voeding immuunsysteem ontdek de energie om een leven te creeren waar je verliefd op wordt",
-          "key2": "marjolein dubbers",
-          "cnt": "1",
-          "value": "605B187CC8F360A0"
-        }
-      ]
-    },
-    "siso": ["628.44"]
-  },
-  {
-    "id": "|oba-catalogus|338186",
-    "frabl": {
-      "key1": "voeding volgens de vijf elementen inleiding in de traditionele chinese voedingsleer",
-      "key2": "barbara temelie",
-      "cnt": "1",
-      "value": "743F476473F360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Barbara-Temelie/Voeding-volgens-de-vijf-elementen-inleiding/Boek/?itemid=%7coba-catalogus%7c338186",
-    "titles": [
-      "Voeding volgens de vijf elementen : inleiding in de traditionele Chinese voedingsleer",
-      "Voeding volgens de vijf elementen : inleiding in de traditionele Chinese voedingsleer / Barbara Temelie"
-    ],
-    "isbn": ["9789063783051"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=123747090&isbn=9789063783051&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/123747090&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Barbara Temelie", "Hajo Geurink"],
-    "authorsDetailed": [
-      {
-        "full": "Barbara Temelie",
-        "firstname": "Barbara",
-        "lastname": "Temelie",
-        "creatortype": "person"
-      },
-      {
-        "full": "Hajo Geurink",
-        "lastname": "Hajo Geurink",
-        "creatortype": "organization"
-      }
-    ],
-    "year": "1994",
-    "publisher": ["Schors, Amsterdam, cop. 1994"],
-    "subject-topical": ["Voedingsleer", "China"],
-    "languages": ["Nederlands", "Duits"],
-    "description": [
-      "VII, 114 p., [1] vouwbl",
-      "VII, 114 p., [1] vouwbl: ill ; 22 cm"
-    ],
-    "note": "Vert. van: ErnÑhrung nach den FÓnf Elementen. - Sulzberg : Joy, cop. 1993",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "voeding volgens de vijf elementen inleiding in de traditionele chinese voedingsleer",
-          "key2": "barbara temelie",
-          "cnt": "1",
-          "value": "743F476473F360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
-  },
-  {
-    "id": "|oba-catalogus|1151802",
-    "frabl": {
-      "key1": "voedingsmythes over valse hoop en nodeloze vrees",
-      "key2": "martijn katan",
-      "cnt": "1",
-      "value": "2661951A1AF360A0"
-    },
-    "detailLink": "http://zoeken.oba.nl/detail/Martijn-Katan/Voedingsmythes-over-valse-hoop-en-nodeloze/Boek/?itemid=%7coba-catalogus%7c1151802",
-    "titles": [
-      "Voedingsmythes : over valse hoop en nodeloze vrees",
-      "Voedingsmythes : over valse hoop en nodeloze vrees / Martijn Katan"
-    ],
-    "isbn": ["=9789035141117"],
-    "coverimages": [
-      "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=391594621&isbn=9789035141117&lid=&aut=&ti=&size=70",
-      "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/391594621&token=c1322402"
-    ],
-    "formats": [
-      {
-        "text": "Boek",
-        "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220315.235354"
-      }
-    ],
-    "authors": ["Martijn Katan"],
-    "authorsDetailed": [
-      {
-        "full": "Martijn Katan",
-        "firstname": "Martijn",
-        "lastname": "Katan",
-        "localized-type": "Auteur",
-        "creatortype": "person"
-      }
-    ],
-    "year": "2016",
-    "publisher": ["Uitgeverij Bert Bakker, Amsterdam, 2016"],
-    "subject-topical": ["Voedingsleer"],
-    "languages": ["Nederlands"],
-    "summaries": [
-      "Kritische beschouwingen over gezondheidsmythes op het gebied van eten en drinken."
-    ],
-    "description": ["318 pagina's", "318 pagina's: illustraties ; 20 cm"],
-    "note": "Met literatuuropgave, register",
-    "undup": {
-      "alsoAvailableAsCount": "0",
-      "items": [
-        {
-          "key1": "voedingsmythes over valse hoop en nodeloze vrees",
-          "key2": "martijn katan",
-          "cnt": "1",
-          "value": "2661951A1AF360A0"
-        }
-      ]
-    },
-    "siso": ["628.4"]
   }
 ]

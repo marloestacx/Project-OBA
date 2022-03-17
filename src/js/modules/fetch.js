@@ -7,8 +7,9 @@ const key = "dc0e2f073c03758140452044906bc818";
 const secret = "4289fec4e962a33118340c888699438d";
 const detail = "Default";
 const url = `${cors}${endpoint}${query}&authorization=${key}&detaillevel=${detail}&output=json`;
+const url2 = `${cors}http://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=voeding+sport+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=fff5cd7a65bd87deefd8f70bfb447d42&output=json`;
 const display = document.getElementById("items");
-display.textContent = "Loading...";
+display.textContent = "Laden...";
 
 export { globalData };
 let globalData;
@@ -25,7 +26,6 @@ export function getData() {
       return response.json();
     })
     .then((data) => {
-      // console.log(data.results.authors[0]);
       globalData = data.results.map((d) => {
         return {
           title: d.titles[0],
@@ -36,7 +36,6 @@ export function getData() {
       });
 
       // globalData = newData;
-      console.log(globalData);
 
       showData(globalData);
     })
@@ -50,17 +49,28 @@ export function getData() {
           globalData = data.map((d) => {
             return {
               title: d.titles[0],
-              author: d.authors[0] || "Test",
+              //   author: d.authors[0] || "Test",
               year: d.year,
               images: [d.coverimages[0], d.coverimages[1]],
             };
           });
 
           // globalData = newData;
-          console.log(globalData);
 
           showData(globalData);
         });
       console.log(err);
     });
 }
+
+fetch(url2)
+  .then((res) => res.json())
+  .then((data) => console.log(data))
+  .catch(() => {
+    fetch("./src/data2.json")
+      .then((response) => response.json())
+      .then((data) => {
+        console.log(data.results);
+      })
+      .catch((err) => console.error(err));
+  });
