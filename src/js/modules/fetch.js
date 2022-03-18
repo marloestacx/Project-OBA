@@ -32,11 +32,14 @@ export function getData() {
           author: d.authors ? d.authors[0] : "Geen auteur",
           year: d.year,
           language: d.languages[0],
+          subject: d["subject-topical"],
           description: d.description[0],
-          summarie: d.summaries ? d.summaries[0] : "Geen samenvatting",
+          summary: d.summaries ? d.summaries[0] : "Geen samenvatting",
           images: [d.coverimages[0], d.coverimages[1]],
         };
       });
+
+      console.log(globalData);
 
       // globalData = newData;
 
@@ -48,21 +51,20 @@ export function getData() {
           return response.json();
         })
         .then((data) => {
-          console.log(data);
           globalData = data.map((d) => {
             return {
               title: d.titles[0],
               author: d.authors ? d.authors[0] : "Geen auteur",
               year: d.year,
               language: d.languages[0],
+              subject: d["subject-topical"],
               description: d.description[0],
-              summarie: d.summaries ? d.summaries[0] : "Geen samenvatting",
+              summary: d.summaries ? d.summaries[0] : "Geen samenvatting",
               images: [d.coverimages[0], d.coverimages[1]],
             };
           });
 
           console.log(globalData);
-
           showData(globalData);
         });
       console.log(err);
@@ -76,7 +78,7 @@ fetch(url2)
     fetch("./src/data2.json")
       .then((response) => response.json())
       .then((data) => {
-        console.log(data.results);
+        console.log(data);
       })
       .catch((err) => console.error(err));
   });

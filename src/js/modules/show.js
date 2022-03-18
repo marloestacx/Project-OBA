@@ -13,8 +13,9 @@ export function showData(data) {
                 <div class="content-details">
                 <h3>${item.title}</h3>
                 <p>${item.author}</p>
-                <p>${item.summarie}</p>
+                <p>${item.summary}</p>
                 <p>${item.description}</p>
+                <p>${item.subject}</p>
                 <p>${item.language}</p>
               </div>
               </article>
