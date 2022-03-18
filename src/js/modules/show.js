@@ -3,7 +3,7 @@ const section = document.querySelector("section");
 //show data
 export function showData(data) {
   display.textContent = "";
-  data.forEach((item, i) => {
+  data.forEach((item) => {
     const html = `
               <article>
               <div class="content-overlay"></div>
@@ -12,7 +12,7 @@ export function showData(data) {
                 }">  
                 <div class="content-details">
                 <h3>${item.title}</h3>
-                <p>${item.author}</p>
+                <p>${item.author}</p> 
                 <p>${item.summary}</p>
                 <p>${item.description}</p>
                 <p>${item.subject}</p>
