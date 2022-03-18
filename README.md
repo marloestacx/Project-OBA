@@ -23,7 +23,7 @@ Search
 
 Sort title
 
-<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/sorttitle.png" width="50%"> 
+<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/sorttitel.png" width="50%"> 
 
 Hover
 
