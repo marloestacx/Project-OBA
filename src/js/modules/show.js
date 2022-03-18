@@ -1,5 +1,6 @@
 const display = document.getElementById("items");
 const section = document.querySelector("section");
+
 //show data
 export function showData(data) {
   display.textContent = "";

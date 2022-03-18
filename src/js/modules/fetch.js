@@ -39,13 +39,10 @@ export function getData() {
         };
       });
 
-      console.log(globalData);
-
-      // globalData = newData;
-
       showData(globalData);
     })
     .catch((err) => {
+      //if api doesn't work fall back on json file
       fetch("./src/data.json")
         .then((response) => {
           return response.json();
@@ -63,8 +60,6 @@ export function getData() {
               images: [d.coverimages[0], d.coverimages[1]],
             };
           });
-
-          console.log(globalData);
           showData(globalData);
         });
       console.log(err);
