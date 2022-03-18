@@ -1,10 +1,27 @@
 const display = document.getElementById("items");
 const section = document.querySelector("section");
+let author;
+let summary;
 
 //show data
 export function showData(data) {
   display.textContent = "";
+
+  //dont show author if not existing
   data.forEach((item) => {
+    if (item.author == "Geen auteur") {
+      author = " ";
+    } else {
+      author = item.author;
+    }
+
+    //dont show summery if not existing
+    if (item.summary == "Geen samenvatting") {
+      summary = " ";
+    } else {
+      summary = item.summary;
+    }
+
     const html = `
               <article>
               <div class="content-overlay"></div>
@@ -13,11 +30,11 @@ export function showData(data) {
                 }">  
                 <div class="content-details">
                 <h3>${item.title}</h3>
-                <p>${item.author}</p> 
-                <p>${item.summary}</p>
+                <p>${author}</p> 
+                <p>${summary}</p>
                 <p>${item.description}</p>
                 <p>${item.subject}</p>
-                <p>${item.language}</p>
+                <p>${item.language}</p> 
               </div>
               </article>
             `;
