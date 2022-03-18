@@ -28,13 +28,20 @@
         <button type="button" id="#sortYear">Jaar</button>
       </div>
       <form>
-        <input type="text" placeholder="Zoek een boek...." id="searchInput" />
+        <input
+          type="text"
+          placeholder="Zoek een titel of schrijver...."
+          id="searchInput"
+        />
         <button type="submit">
           <i class="fas fa-search"></i>
         </button>
       </form>
     </header>
-    <main><section id="items"></section></main>
+    <main>
+      <div id="error"></div>
+      <section id="items"></section>
+    </main>
     <script type="module" src="src/js/app.js"></script>
   </body>
 </html>
