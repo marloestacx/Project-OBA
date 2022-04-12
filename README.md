@@ -15,19 +15,20 @@ This project is a single page web app where you can view sport food books from t
 
 Entree
 
-<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/home.png" width="50%">
+<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/home.png?raw=true" width="50%">
+
 
 Search
 
-<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/search.png" width="50%"> 
+<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/search.png?raw=true" width="50%"> 
 
 Sort title
 
-<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/sorttitel.png" width="50%"> 
+<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/sorttitel.png?raw=true" width="50%"> 
 
 Hover
 
-<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/hover.png" width="50%"> 
+<img src="https://github.com/marloestacx/Project-OBA/blob/main/src/images/hover.png?raw=true" width="50%"> 
 
 ## Features
 In the web app you can view books which are related to food and sport. You can search for book by tying in the title or author of a book. You can sort the books on title, author or year. When hovering over the book you will see information about the book such as title, author, description and the amount of pages.
